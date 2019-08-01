@@ -65,9 +65,21 @@ Short description.
 
 ### Energy
 
+- [Nel ASA](https://nelhydrogen.com/) | Norway | 1927
+
+  Provides solutions for the production, storage and distribution of hydrogen from renewable energy sources.
+
 - [Solar City](https://www.tesla.com/solarpanels) | California, USA | 2006
 
   Current products include a solar panel roof that collects as much power as possible without looking like a solar panel, and Powerwall, a home energy storage solution.
+
+- [Tesla](https://www.tesla.com/solarpanels) | California, USA | 2003
+
+  Specialized in electric car manufacturing and through, its SolarCity subsidiary, solar panel manufacturing.
+
+- [Vestas](https://www.vestas.com/) | Denmark | 1945
+
+  Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
 
 ### Awareness
 
