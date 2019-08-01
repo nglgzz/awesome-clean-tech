@@ -68,6 +68,10 @@ Short description.
 - [Solar City](https://www.tesla.com/solarpanels) | California, USA | 2006
 
   Current products include a solar panel roof that collects as much power as possible without looking like a solar panel, and Powerwall, a home energy storage solution.
+  
+- [Open Climate Fix](https://openclimatefix.github.io) | London, England | 2019
+
+  Open Climate Fix is a non-profit research and development lab, totally focused on reducing greenhouse gas emissions as rapidly as possible using machine learning.
 
 ### Awareness
 
