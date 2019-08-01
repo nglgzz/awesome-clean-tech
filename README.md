@@ -2,6 +2,8 @@
 
 Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
 
+_Contributions to this list are welcome! Just edit the [README.md](./edit/master/README.md) (this document) and send the changes as a pull request. [Guidelines](./CONTRIBUTING.md) are available._
+
 ### Contents
 
 - [Companies](#companies)
