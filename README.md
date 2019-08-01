@@ -83,6 +83,10 @@ Short description.
 
 ### Awareness
 
+- [Doconomy](https://doconomy.com/) | Sweden | 2018
+
+  Fintech company promoting the reduction in consumption, by providing a credit card which uses CO2 emissions as spending limit.
+
 - [Ducky](https://www.ducky.eco/en/) | Norway | 2014
 
   Offers a range of products based on climate and environmental research data, where you can monitor your personal footprint in their climate calculator, learn about climate psychology, and reduce carbon emissions through friendly team competitions.
