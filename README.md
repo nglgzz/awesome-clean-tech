@@ -1,7 +1,4 @@
-# Awesome Clean Tech
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+# Awesome Clean Tech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
 
@@ -16,7 +13,7 @@ Clean technology is any process, product, or service that reduces negative envir
 - [More Resources](#more-resources)
 - [License](#license)
 
-# Companies
+## Companies
 
 The format for companies is the following:
 
@@ -26,7 +23,7 @@ The format for companies is the following:
 Short description.
 ```
 
-## Agriculture & Food
+### Agriculture & Food
 
 - [Impossible Foods](https://impossiblefoods.com/) | California, USA | 2011
 
@@ -44,13 +41,13 @@ Short description.
 
   Uses satellite imaging to save fertilizer usage up to 30%, and track crops healt. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
 
-## Materials
+### Materials
 
 - [Cellugy](https://cellugy.com/) | Denmark | 2018
 
   Offers a biomaterial produced from food and vegetable waste, that can be used for packaging as an alternative to plastic. This material is translucent, resistent, and home compostable.
 
-## Water
+### Water
 
 - [The Ocean Cleanup](https://theoceancleanup.com/) | Netherlands | 2013
 
@@ -64,18 +61,22 @@ Short description.
 
   Develops a reverse osmosis technology for producing drinking water with low operating expenses and no CO2 emissions. The desalination system is fully solar, independent of external energy sources and easy-to-use and maintain.
 
-## Energy
+### Energy
 
 - [Solar City](https://www.tesla.com/solarpanels) | California, USA | 2006
 
   Current products include a solar panel roof that collects as much power as possible without looking like a solar panel, and Powerwall, a home energy storage solution.
 
-## Awareness
+### Awareness
 
 - [Ducky](https://www.ducky.eco/en/) | Norway | 2014
 
   Offers a range of products based on climate and environmental research data, where you can monitor your personal footprint in their climate calculator, learn about climate psychology, and reduce carbon emissions through friendly team competitions.
 
-# More Resources
+## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech)
+
+## License
+
+This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
