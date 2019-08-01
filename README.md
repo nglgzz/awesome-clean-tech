@@ -9,6 +9,7 @@
   - [Energy](#energy)
   - [Awareness](#awareness)
 - [More Resources](#more-resources)
+- [License](#license)
 
 # Companies
 
