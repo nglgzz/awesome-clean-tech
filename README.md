@@ -91,6 +91,10 @@ Short description.
 
   Offers a range of products based on climate and environmental research data, where you can monitor your personal footprint in their climate calculator, learn about climate psychology, and reduce carbon emissions through friendly team competitions.
 
+- [Unmade](https://unmade.com) | England | 2013
+
+  Unmade is a global fashion software company driving innovation through customisation and delivering an end-to-end digital solution for on-demand production at scale. Unmade was born out of a desire to reimagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
+
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech)
