@@ -1,6 +1,8 @@
 # Awesome Clean Tech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
+> Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
+
+The goal of this list is to gather a list of awesome companies fighting climate change, as well as research about the issues and solutions connected to it.
 
 _Contributions to this list are welcome! Just edit the [README.md](./edit/master/README.md) (this document) and send the changes as a pull request. [Guidelines](./CONTRIBUTING.md) are available._
 
@@ -13,6 +15,7 @@ _Contributions to this list are welcome! Just edit the [README.md](./edit/master
   - [Energy](#energy)
   - [Social Impact](#social-impact)
 - [More Resources](#more-resources)
+- [Research](#research)
 - [License](#license)
 
 ## Companies
@@ -102,6 +105,10 @@ Short description.
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech)
+
+## Research
+
+- [NASA vital signs of the planet, facts, and solutions](http://climate.nasa.gov/)
 
 ## License
 
