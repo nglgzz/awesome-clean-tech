@@ -11,7 +11,7 @@ _Contributions to this list are welcome! Just edit the [README.md](./edit/master
   - [Materials](#materials)
   - [Water](#water)
   - [Energy](#energy)
-  - [Awareness](#awareness)
+  - [Social Impact](#social-impact)
 - [More Resources](#more-resources)
 - [License](#license)
 
@@ -85,7 +85,7 @@ Short description.
 
   Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
 
-### Awareness
+### Social Impact
 
 - [Doconomy](https://doconomy.com/) | Sweden | 2018
 
@@ -94,6 +94,10 @@ Short description.
 - [Ducky](https://www.ducky.eco/en/) | Norway | 2014
 
   Offers a range of products based on climate and environmental research data, where you can monitor your personal footprint in their climate calculator, learn about climate psychology, and reduce carbon emissions through friendly team competitions.
+
+- [Ecosia](https://ecosia.org/) | Germany | 2009
+
+  Internet search engine that donates its surplus income to non-profit organizations that focus on reforestation. According to their website, as of July 2019, they have been responsible for the planting of 60 million trees.
 
 ## More Resources
 
