@@ -17,6 +17,7 @@ Short description.
 - Only add companies you think are awesome.
 - Start the description with a capital and end with a full stop.
 - Don't start the description with A or An.
+- Keep the description simple, don't use buzzwords or meaningless words, just explain what problem the company is trying to solve and how, like you would explain to a friend.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - You can also add related links and repositories in the end.
