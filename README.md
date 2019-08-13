@@ -2,7 +2,7 @@
 
 > Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
 
-The goal of this list is to gather a list of awesome companies fighting climate change, as well as research about the issues and solutions connected to it.
+The goal of this list is to gather a list of awesome companies fighting climate change, as well as collecting research about the issues and solutions connected to it.
 
 _Contributions to this list are welcome! Just edit the [README.md](./edit/master/README.md) (this document) and send the changes as a pull request. [Guidelines](./CONTRIBUTING.md) are available._
 
@@ -33,6 +33,12 @@ Short description.
 - [Impossible Foods](https://impossiblefoods.com/) | California, USA | 2011
 
   Their plant based burgers require 96% less land, 87% less water, and 89% less greenhouse emissions to produce than traditional burgers. Their mission is to produce plant based meat in order to reduce the impact of the meat industry on the environment.
+
+- [Karma](https://new.karma.life/) | Sweden | 2016
+
+  Helps restaurants, cafes, and grocery stores selling their surplus food at a
+  discounted price. As a result, users get food for less and businesses receive
+  an additional revenue stream — all while reducing food waste.
 
 - [Phytoponics](https://phytoponics.com/) | UK | 2016
 
