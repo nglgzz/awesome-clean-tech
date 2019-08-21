@@ -8,17 +8,15 @@ _Contributions to this list are welcome! Just edit the [README.md](./edit/master
 
 ### Contents
 
-- [Awesome Clean Tech ![Awesome](https://awesome.re) ![License: CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)](#awesome-clean-tech-awesomehttpsawesomere-license-cc0-10httpcreativecommonsorgpublicdomainzero10)
-    - [Contents](#contents)
-  - [Companies](#companies)
-    - [Agriculture & Food](#agriculture--food)
-    - [Materials](#materials)
-    - [Water](#water)
-    - [Energy](#energy)
-    - [Social Impact](#social-impact)
-  - [More Resources](#more-resources)
-  - [Research](#research)
-  - [License](#license)
+- [Companies](#companies)
+  - [Agriculture & Food](#agriculture-&-food)
+  - [Materials](#materials)
+  - [Water](#water)
+  - [Energy](#energy)
+  - [Social Impact](#social-impact)
+- [More Resources](#more-resources)
+- [Research](#research)
+- [License](#license)
 
 ## Companies
 
