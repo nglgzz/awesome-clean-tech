@@ -8,15 +8,17 @@ _Contributions to this list are welcome! Just edit the [README.md](./edit/master
 
 ### Contents
 
-- [Companies](#companies)
-  - [Agriculture & Food](#agriculture-&-food)
-  - [Materials](#materials)
-  - [Water](#water)
-  - [Energy](#energy)
-  - [Social Impact](#social-impact)
-- [More Resources](#more-resources)
-- [Research](#research)
-- [License](#license)
+- [Awesome Clean Tech ![Awesome](https://awesome.re) ![License: CC0-1.0](http://creativecommons.org/publicdomain/zero/1.0/)](#awesome-clean-tech-awesomehttpsawesomere-license-cc0-10httpcreativecommonsorgpublicdomainzero10)
+    - [Contents](#contents)
+  - [Companies](#companies)
+    - [Agriculture & Food](#agriculture--food)
+    - [Materials](#materials)
+    - [Water](#water)
+    - [Energy](#energy)
+    - [Social Impact](#social-impact)
+  - [More Resources](#more-resources)
+  - [Research](#research)
+  - [License](#license)
 
 ## Companies
 
@@ -47,6 +49,13 @@ Short description.
 - [Solar Foods](https://solarfoods.fi/) | Finland | 2017
 
   Produces Solein - a single-cell protein - from water, CO2 and electricity. It doesn’t require arable land or irrigation and isn’t limited by climate conditions. The original concept of Solein was born from a NASA space programme, and was further developed in the research projects of the Technical Research Centre of Finland Ltd and the Lappeenranta University of Technology (LUT).
+
+- [Too Good To Go](https://toogoodtogo.com/en) | France | 2016
+
+  Gives the possibility for restaurants, stores, bakeries and cafés to sell
+  unsold food at the end of the day. Since it is impossible to know in advance
+  what will be the unsolds of the day, the users get a "surprise basket" of
+  about 500g of food. Pretty much like Karma, but more present in France.
 
 - [Vultus](https://www.vultus.se/) | Sweden | 2016
 
