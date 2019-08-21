@@ -4,7 +4,7 @@
 
 The goal of this list is to gather a list of awesome companies fighting climate change, as well as collecting research about the issues and solutions connected to it.
 
-_Contributions to this list are welcome! Just edit the [README.md](./edit/master/README.md) (this document) and send the changes as a pull request. [Guidelines](./CONTRIBUTING.md) are available._
+_Contributions to this list are welcome! Just edit the [README.md](./edit/master/README.md) (this document) and send the changes as a pull request. Please read the [guidelines](./CONTRIBUTING.md) before contributing._
 
 ### Contents
 
@@ -57,7 +57,7 @@ Short description.
 
 - [Vultus](https://www.vultus.se/) | Sweden | 2016
 
-  Uses satellite imaging to save fertilizer usage up to 30%, and track crops healt. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
+  Uses satellite imaging to save fertilizer usage up to 30%, and track crops health. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
 
 ### Materials
 
