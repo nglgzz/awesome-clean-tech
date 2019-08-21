@@ -52,7 +52,7 @@ Short description.
 
   Uses satellite imaging to save fertilizer usage up to 30%, and track crops healt. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
 
-- [farmAR](https://farmAR.create4d.com/) | The Netherlands | 2015
+- [farmAR](http://farmAR.create4d.com/) | The Netherlands | 2015
 
   farmAR app helps farmers to recognize early diseases, help them to save crops and to reduce the need of excessive chemical usage.
   
