@@ -81,6 +81,10 @@ Short description.
 
 ### Energy
 
+- [ElectricityMap.org](https://www.electricitymap.org/) | Denmark/France | 2017
+
+  A software company offering access to live and historical data of the origin of electricity and its associated carbon emissions in 90+ countries, based on open-source contributions.
+  
 - [Nel ASA](https://nelhydrogen.com/) | Norway | 1927
 
   Provides solutions for the production, storage and distribution of hydrogen from renewable energy sources.
@@ -114,6 +118,11 @@ Short description.
 - [Ecosia](https://ecosia.org/) | Germany | 2009
 
   Internet search engine that donates its surplus income to non-profit organizations that focus on reforestation. According to their website, as of July 2019, they have been responsible for the planting of 60 million trees.
+
+- [Tomorrow](https://tmrow.com/) | Denmark/France | 2018
+
+  App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
+
 
 ## More Resources
 
