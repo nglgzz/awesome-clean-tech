@@ -84,7 +84,11 @@ Short description.
 - [ElectricityMap.org](https://www.electricitymap.org/) | Denmark/France | 2017
 
   A software company offering access to live and historical data of the origin of electricity and its associated carbon emissions in 90+ countries, based on open-source contributions.
-  
+
+- [Hydrostor](https://www.hydrostor.ca/) | Canada | 2010
+
+  Converts electrical energy to compressed air stored in accumulators under water. Once in the accumulators, the energy can be stored until required by the grid. When the energy is required, the weight of the water pushes the air back to the surface, where it is converted to electricity using a generator.
+
 - [Nel ASA](https://nelhydrogen.com/) | Norway | 1927
 
   Provides solutions for the production, storage and distribution of hydrogen from renewable energy sources.
@@ -122,7 +126,6 @@ Short description.
 - [Tomorrow](https://tmrow.com/) | Denmark/France | 2018
 
   App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
-
 
 ## More Resources
 
