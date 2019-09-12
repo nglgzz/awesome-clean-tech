@@ -6,17 +6,16 @@ The goal of this list is to gather a list of awesome companies fighting climate 
 
 _Contributions to this list are welcome! Just edit the [README.md](./edit/master/README.md) (this document) and send the changes as a pull request. Please read the [guidelines](./CONTRIBUTING.md) before contributing._
 
-### Contents
+## Contents
 
 - [Companies](#companies)
-  - [Agriculture & Food](#agriculture-&-food)
+  - [Agriculture & Food](#agriculture--food)
   - [Materials](#materials)
   - [Water](#water)
   - [Energy](#energy)
   - [Social Impact](#social-impact)
 - [More Resources](#more-resources)
 - [Research](#research)
-- [License](#license)
 
 ## Companies
 
