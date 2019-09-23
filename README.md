@@ -39,6 +39,10 @@ Short description.
   discounted price. As a result, users get food for less and businesses receive
   an additional revenue stream — all while reducing food waste.
 
+- [Olio](https://olioex.com/) | UK | 2015
+
+  Mobile app for food-sharing, aiming to reduce food waste. It does this by connecting those with surplus food to those who need or wish to consume such food. The food must be edible; it can be raw or cooked, sealed or open.
+
 - [Phytoponics](https://phytoponics.com/) | UK | 2016
 
   Produces a commercial scale hydroponic growing system, which is cheaper and easier to install and maintain than traditional hydroponic systems. The goal is to bring the benefits of hydroponics (less water and land, more consistent yields), with a lower investment up front.
