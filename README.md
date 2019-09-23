@@ -128,7 +128,9 @@ Short description.
 
 ## More Resources
 
-- [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech)
+- [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
+- [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
+- [Norrsken Foundation](https://www.norrskenfoundation.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
 
 ## Research
 
