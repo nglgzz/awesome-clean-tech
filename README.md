@@ -132,7 +132,9 @@ Short description.
 
 ## Research
 
-- [NASA vital signs of the planet, facts, and solutions](http://climate.nasa.gov/)
+- [Environmental Protection Agency](https://www.epa.gov/climate-research) - Research on effects of climate change and solutions.
+- [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/library/) - United Nations body for assessing the science related to climate change.
+- [NASA climate](http://climate.nasa.gov/) - Vital signs of the planet, facts, and solutions.
 
 ## License
 
