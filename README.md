@@ -62,6 +62,10 @@ Short description.
 
   Uses satellite imaging to save fertilizer usage up to 30%, and track crops health. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
 
+- [Too Good Too Go](https://toogoodtogo.com/en) | Denmark | 2016
+
+  App for the reduction of food waste. Users get access to a list of unsold food from stores around them.
+
 ### Materials
 
 - [Cellugy](https://cellugy.com/) | Denmark | 2018
@@ -112,6 +116,10 @@ Short description.
 
   Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
 
+- [nanoFlowcell](https://www.nanoflowcell.com/) | Switzerland | 2013
+
+  Developing technology around flow-cell based energy storage, including the QUANT electric vehicles.
+
 ### Social Impact
 
 - [Doconomy](https://doconomy.com/) | Sweden | 2018
@@ -141,6 +149,7 @@ Short description.
 - [Environmental Protection Agency](https://www.epa.gov/climate-research) - Research on effects of climate change and solutions.
 - [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/library/) - United Nations body for assessing the science related to climate change.
 - [NASA climate](http://climate.nasa.gov/) - Vital signs of the planet, facts, and solutions.
+- [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) - Providing solution-oriented policy pathways for governing the global commons to enhance sustainable development and human well-being.
 
 ## License
 
