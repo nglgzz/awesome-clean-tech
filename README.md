@@ -68,6 +68,10 @@ Short description.
 
   Offers a biomaterial produced from food and vegetable waste, that can be used for packaging as an alternative to plastic. This material is translucent, resistent, and home compostable.
 
+- [Organicbasics](https://organicbasics.com) | Denmark | 2015
+  
+  Offers underwear, essentials and activewear made consciously in Europe. The material used for their production is natural, renewable,recycled, biodegradable and or low-impact textiles only.
+
 ### Water
 
 - [The Ocean Cleanup](https://theoceancleanup.com/) | Netherlands | 2013
