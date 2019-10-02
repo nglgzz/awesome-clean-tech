@@ -154,6 +154,10 @@ Short description.
 - [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/library/) - United Nations body for assessing the science related to climate change.
 - [NASA climate](http://climate.nasa.gov/) - Vital signs of the planet, facts, and solutions.
 
+## Technology
+
+- [HCL](https://www.hcltech.com/) - HCL is trying to introduce eco- friendly products in the market and it has recently launched the HCL ME 40 notebooks. These notebooks do not use any polyvinyl chloride (PVC) material or other harmful chemicals and the Bureau of Energy Efficiency, India already given it a five star rating.
+
 ## License
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
