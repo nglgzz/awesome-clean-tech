@@ -82,9 +82,17 @@ Short description.
 
   Collaborated with NASA to develop a shower system that uses 90% less water. The shower has a purification system that makes it possible to reuse the same batch of water. The company now wants to make this technology - initially developed for space - available to consumers.
 
+- [Seabin Project](https://seabinproject.com/) | Australia | -
+
+  To provide practical and tangible solutions to reduce the plastics in our oceans which is one of the world’s greatest problems.
+  The idea was if there was rubbish bins on land, why not in the water? Over time, the scope of the project evolved into a comprehensive research, technology, and educational initiative with global interest and reach.
+
 - [Solar Water Solutions](https://solarwatersolutions.fi/en/) | Finland | -
 
   Develops a reverse osmosis technology for producing drinking water with low operating expenses and no CO2 emissions. The desalination system is fully solar, independent of external energy sources and easy-to-use and maintain.
+
+
+  
 
 ### Energy
 
@@ -123,6 +131,10 @@ Short description.
 - [Tesla](https://www.tesla.com/solarpanels) | California, USA | 2003
 
   Specialized in electric car manufacturing and through, its SolarCity subsidiary, solar panel manufacturing.
+
+- [Tessol](https://www.tessol.in/) | Mumbai, India | 2013
+
+  Focuses on technologies that have tremendous potential to impact current thermal applications in Agricultural, Commercial and Industrial facilities. 
 
 - [Vestas](https://www.vestas.com/) | Denmark | 1945
 
