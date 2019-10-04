@@ -40,6 +40,10 @@ Short description.
 - [Karma](https://new.karma.life/) | Sweden | 2016
 
   Helps restaurants, cafes, and grocery stores selling their surplus food at a discounted price. As a result, users get food for less and businesses receive an additional revenue stream — all while reducing food waste.
+  
+- [Land Life Company.](https://landlifecompany.com/) | Amsterdam | 2013
+
+  Their mission is to reforest the world’s 2 billion hectares of degraded land.
 
 - [Olio](https://olioex.com/) | UK | 2015
 
@@ -169,7 +173,7 @@ Short description.
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4OTg4Mzg3LC0yMTA3NDcyLC0yNDM1Nj
+eyJoaXN0b3J5IjpbNzM0MzAwMjc4LC0yMTA3NDcyLC0yNDM1Nj
 U2MDcsLTM2MjQwNjgwOSwxNTU1MzcxMzM0LC0xNjIyMjM4NTg2
 LC0xNjk0MzA0NDA4LC01MjA0MDk5Miw5ODYwOTE4MjhdfQ==
 -->
