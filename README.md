@@ -28,6 +28,7 @@ Short description.
 ```
 
 ### Vegetation, Agriculture & Food
+
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
 - [Land Life Company.](https://landlifecompany.com/) | Amsterdam | 2013
@@ -171,7 +172,7 @@ Their mission is to reforest the world’s 2 billion hectares of degraded land.
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzU2NTYwNywtMzYyNDA2ODA5LDE1NT
-UzNzEzMzQsLTE2MjIyMzg1ODYsLTE2OTQzMDQ0MDgsLTUyMDQw
-OTkyLDk4NjA5MTgyOF19
+eyJoaXN0b3J5IjpbLTI0NTc0NTIwOSwtMjQzNTY1NjA3LC0zNj
+I0MDY4MDksMTU1NTM3MTMzNCwtMTYyMjIzODU4NiwtMTY5NDMw
+NDQwOCwtNTIwNDA5OTIsOTg2MDkxODI4XX0=
 -->
