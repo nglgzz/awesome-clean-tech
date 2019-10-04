@@ -169,3 +169,6 @@ Short description.
 ## License
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2ODk2NzA5MzZdfQ==
+-->
