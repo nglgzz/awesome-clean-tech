@@ -30,7 +30,7 @@ Short description.
 ### Vegetation, Agriculture & Food
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
-
+- [enter link description here](https://landlifecompany.com/)
 - [Impossible Foods](https://impossiblefoods.com/) | California, USA | 2011
 
   Their plant based burgers require 96% less land, 87% less water, and 89% less greenhouse emissions to produce than traditional burgers. Their mission is to produce plant based meat in order to reduce the impact of the meat industry on the environment.
@@ -169,6 +169,7 @@ They plant native trees & vegetation using drone swarms and spray to protect the
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTM3MTMzNCwtMTYyMjIzODU4NiwtMT
-Y5NDMwNDQwOCwtNTIwNDA5OTIsOTg2MDkxODI4XX0=
+eyJoaXN0b3J5IjpbLTg1MTI0NDk0NywxNTU1MzcxMzM0LC0xNj
+IyMjM4NTg2LC0xNjk0MzA0NDA4LC01MjA0MDk5Miw5ODYwOTE4
+MjhdfQ==
 -->
