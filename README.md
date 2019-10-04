@@ -30,13 +30,16 @@ Short description.
 ### Vegetation, Agriculture & Food
 
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
-They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
-- [Land Life Company.](https://landlifecompany.com/) | Amsterdam | 2013
-Their mission is to reforest the world’s 2 billion hectares of degraded land.
+
+  They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
 
 - [Impossible Foods](https://impossiblefoods.com/) | California, USA | 2011
 
   Their plant based burgers require 96% less land, 87% less water, and 89% less greenhouse emissions to produce than traditional burgers. Their mission is to produce plant based meat in order to reduce the impact of the meat industry on the environment.
+
+- [Land Life Company.](https://landlifecompany.com/) | Amsterdam | 2013
+
+  Their mission is to reforest the world’s 2 billion hectares of degraded land.
 
 - [Karma](https://new.karma.life/) | Sweden | 2016
 
@@ -172,7 +175,7 @@ Their mission is to reforest the world’s 2 billion hectares of degraded land.
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODE0NDUwNTQsLTI0MzU2NTYwNywtMz
-YyNDA2ODA5LDE1NTUzNzEzMzQsLTE2MjIyMzg1ODYsLTE2OTQz
-MDQ0MDgsLTUyMDQwOTkyLDk4NjA5MTgyOF19
+eyJoaXN0b3J5IjpbLTIxMDc0NzIsLTI0MzU2NTYwNywtMzYyND
+A2ODA5LDE1NTUzNzEzMzQsLTE2MjIyMzg1ODYsLTE2OTQzMDQ0
+MDgsLTUyMDQwOTkyLDk4NjA5MTgyOF19
 -->
