@@ -27,7 +27,7 @@ The format for companies is the following:
 Short description.
 ```
 
-### Agriculture & Food
+### Vegetation, Agriculture & Food
 
 - [Impossible Foods](https://impossiblefoods.com/) | California, USA | 2011
 
@@ -167,6 +167,6 @@ Short description.
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQzMDQ0MDgsLTUyMDQwOTkyLDk4Nj
-A5MTgyOF19
+eyJoaXN0b3J5IjpbLTE2MjIyMzg1ODYsLTE2OTQzMDQ0MDgsLT
+UyMDQwOTkyLDk4NjA5MTgyOF19
 -->
