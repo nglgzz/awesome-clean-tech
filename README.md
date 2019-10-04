@@ -153,6 +153,11 @@ Short description.
 
   App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
 
+- [Wren](https://projectwren.com) | United States | 2019
+
+  Wren is a service that offers a monthly subscription in order to offset your carbon footprint. Wren helps you calculate your footprint,
+  fund offset projects and track these offsets. 
+
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
