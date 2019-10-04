@@ -9,7 +9,7 @@ _Contributions to this list are welcome! Just edit the [README.md](./edit/master
 ## Contents
 
 - [Companies](#companies)
-  - [Agriculture & Food](#agriculture--food)
+  - [Vegetation, Agriculture & Food](#vegetation-agriculture--food)
   - [Materials](#materials)
   - [Water](#water)
   - [Energy](#energy)
@@ -27,7 +27,11 @@ The format for companies is the following:
 Short description.
 ```
 
-### Agriculture & Food
+### Vegetation, Agriculture & Food
+
+- [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
+
+  They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
 
 - [Impossible Foods](https://impossiblefoods.com/) | California, USA | 2011
 
@@ -35,9 +39,11 @@ Short description.
 
 - [Karma](https://new.karma.life/) | Sweden | 2016
 
-  Helps restaurants, cafes, and grocery stores selling their surplus food at a
-  discounted price. As a result, users get food for less and businesses receive
-  an additional revenue stream — all while reducing food waste.
+  Helps restaurants, cafes, and grocery stores selling their surplus food at a discounted price. As a result, users get food for less and businesses receive an additional revenue stream — all while reducing food waste.
+  
+- [Land Life Company](https://landlifecompany.com/) | Amsterdam | 2013
+
+  Their mission is to reforest the world’s 2 billion hectares of degraded land.
 
 - [Olio](https://olioex.com/) | UK | 2015
 
@@ -53,10 +59,7 @@ Short description.
 
 - [Too Good To Go](https://toogoodtogo.com/en) | France | 2016
 
-  Gives the possibility for restaurants, stores, bakeries and cafés to sell
-  unsold food at the end of the day. Since it is impossible to know in advance
-  what will be the unsolds of the day, the users get a "surprise basket" of
-  about 500g of food. Pretty much like Karma, but more present in France.
+  Gives the possibility for restaurants, stores, bakeries and cafés to sell unsold food at the end of the day. Since it is impossible to know in advance what will be the unsolds of the day, the users get a "surprise basket" of about 500g of food. Pretty much like Karma, but more present in France.
 
 - [Vultus](https://www.vultus.se/) | Sweden | 2016
 
@@ -155,6 +158,7 @@ Short description.
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
 - [Norrsken Foundation](https://www.norrskenfoundation.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
+- [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
 
 ## Research
 
