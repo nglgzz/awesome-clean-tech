@@ -59,10 +59,8 @@ Short description.
 
 - [Too Good To Go](https://toogoodtogo.com/en) | France | 2016
 
-  Gives the possibility for restaurants, stores, bakeries and cafés to sell
-  unsold food at the end of the day. Since it is impossible to know in advance
-  what will be the unsolds of the day, the users get a "surprise basket" of
-  about 500g of food. Pretty much like Karma, but more present in France.
+  Gives the possibility for restaurants, stores, bakeries and cafés to sell unsold food at the end of the day. Since it is impossible to know in advance
+  what will be the unsolds of the day, the users get a "surprise basket" of about 500g of food. Pretty much like Karma, but more present in France.
 
 - [Vultus](https://www.vultus.se/) | Sweden | 2016
 
@@ -172,3 +170,6 @@ Short description.
 ## License
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NDQwNzM0NjhdfQ==
+-->
