@@ -28,7 +28,7 @@ Short description.
 ```
 
 ### Vegetation, Agriculture & Food
-- [Droneseed](https://www.droneseed.co/) | |
+- [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
 
 - [Impossible Foods](https://impossiblefoods.com/) | California, USA | 2011
@@ -169,6 +169,6 @@ They plant native trees & vegetation using drone swarms and spray to protect the
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA3Nzk5MjcsLTE2MjIyMzg1ODYsLT
-E2OTQzMDQ0MDgsLTUyMDQwOTkyLDk4NjA5MTgyOF19
+eyJoaXN0b3J5IjpbMTU1NTM3MTMzNCwtMTYyMjIzODU4NiwtMT
+Y5NDMwNDQwOCwtNTIwNDA5OTIsOTg2MDkxODI4XX0=
 -->
