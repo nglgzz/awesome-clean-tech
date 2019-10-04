@@ -28,7 +28,10 @@ Short description.
 ```
 
 ### Vegetation, Agriculture & Food
-- [Droneseed](https://www.droneseed.co/)
+- [Droneseed](https://www.droneseed.co/) | |
+lant native trees and vegetation using drone swarms and spray to protect them.
+
+Governments, nonprofits, and private land owners contract us as a service provider.
 
 - [Impossible Foods](https://impossiblefoods.com/) | California, USA | 2011
 
@@ -168,6 +171,6 @@ Short description.
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgwMzE4NDksLTE2MjIyMzg1ODYsLT
-E2OTQzMDQ0MDgsLTUyMDQwOTkyLDk4NjA5MTgyOF19
+eyJoaXN0b3J5IjpbNjcxNzU5MTgsLTE2MjIyMzg1ODYsLTE2OT
+QzMDQ0MDgsLTUyMDQwOTkyLDk4NjA5MTgyOF19
 -->
