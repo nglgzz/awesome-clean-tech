@@ -155,7 +155,7 @@ Short description.
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
 - [Norrsken Foundation](https://www.norrskenfoundation.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
-- [Mattermore.io](https://www.mattermore.io/)
+- [Mattermore.io](https://www.mattermore.io/) - 
 
 ## Research
 
@@ -167,5 +167,5 @@ Short description.
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE2NDUyMzMsOTg2MDkxODI4XX0=
+eyJoaXN0b3J5IjpbLTUyMDQwOTkyLDk4NjA5MTgyOF19
 -->
