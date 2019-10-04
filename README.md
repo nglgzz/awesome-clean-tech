@@ -9,7 +9,7 @@ _Contributions to this list are welcome! Just edit the [README.md](./edit/master
 ## Contents
 
 - [Companies](#companies)
-  - [Agriculture & Food](#agriculture--food)
+  - [Vegetation, Agriculture & Food](#vegetaionagriculture--food)
   - [Materials](#materials)
   - [Water](#water)
   - [Energy](#energy)
@@ -172,7 +172,7 @@ Their mission is to reforest the world’s 2 billion hectares of degraded land.
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTc0NTIwOSwtMjQzNTY1NjA3LC0zNj
+eyJoaXN0b3J5IjpbLTQyNzA1Mzk2NywtMjQzNTY1NjA3LC0zNj
 I0MDY4MDksMTU1NTM3MTMzNCwtMTYyMjIzODU4NiwtMTY5NDMw
 NDQwOCwtNTIwNDA5OTIsOTg2MDkxODI4XX0=
 -->
