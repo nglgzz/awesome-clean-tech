@@ -41,7 +41,7 @@ Short description.
 
   Helps restaurants, cafes, and grocery stores selling their surplus food at a discounted price. As a result, users get food for less and businesses receive an additional revenue stream — all while reducing food waste.
   
-- [Land Life Company.](https://landlifecompany.com/) | Amsterdam | 2013
+- [Land Life Company](https://landlifecompany.com/) | Amsterdam | 2013
 
   Their mission is to reforest the world’s 2 billion hectares of degraded land.
 
@@ -173,7 +173,7 @@ Short description.
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0MzAwMjc4LC0yMTA3NDcyLC0yNDM1Nj
-U2MDcsLTM2MjQwNjgwOSwxNTU1MzcxMzM0LC0xNjIyMjM4NTg2
-LC0xNjk0MzA0NDA4LC01MjA0MDk5Miw5ODYwOTE4MjhdfQ==
+eyJoaXN0b3J5IjpbMTY0NjA3MTM2MiwtMjEwNzQ3MiwtMjQzNT
+Y1NjA3LC0zNjI0MDY4MDksMTU1NTM3MTMzNCwtMTYyMjIzODU4
+NiwtMTY5NDMwNDQwOCwtNTIwNDA5OTIsOTg2MDkxODI4XX0=
 -->
