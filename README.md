@@ -73,7 +73,7 @@ Short description.
 
 - [Organicbasics](https://organicbasics.com) | Denmark | 2015
 
-  Offers underwear, essentials and activewear made consciously in Europe. The material used for their production is natural, renewable,recycled, biodegradable and or low-impact textiles only.
+  Offers underwear, essentials and activewear made consciously in Europe. The material used for their production is natural, renewable, recycled, biodegradable and or low-impact textiles only.
 
 ### Water
 
