@@ -75,6 +75,10 @@ Short description.
 
   Offers underwear, essentials and activewear made consciously in Europe. The material used for their production is natural, renewable, recycled, biodegradable and or low-impact textiles only.
 
+- [SkyCool Systems](http://skycoolsystems.com) | California, USA | 2016
+
+  Manufacture add-ons to vapor-compression based cooling systems, which reduce their electricity usage while being CO2 neutral themselves.
+
 ### Water
 
 - [The Ocean Cleanup](https://theoceancleanup.com/) | Netherlands | 2013
@@ -122,6 +126,10 @@ Short description.
 - [Solar City](https://www.tesla.com/solarpanels) | California, USA | 2006
 
   Current products include a solar panel roof that collects as much power as possible without looking like a solar panel, and Powerwall, a home energy storage solution.
+
+- [Sonnen](https://sonnenusa.com) | Germany | 2010
+
+  Produces energy storage solutions for households. Also, they currently provide the largest network for sharing power from renewable energies, operating in Germany.
 
 - [Tesla](https://www.tesla.com/solarpanels) | California, USA | 2003
 
