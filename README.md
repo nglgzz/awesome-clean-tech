@@ -91,6 +91,10 @@ Short description.
 
 ### Energy
 
+- [Bulb](https://bulb.co.uk/) | UK | 2013
+
+  The UK's biggest green supplier. They provide members with 100% renewable electricity from solar, wind and hydro. Plus, the gas is 100% carbon neutral. 10% is green gas produced from renewable sources like food or farm waste.
+
 - [ElectricityMap.org](https://www.electricitymap.org/) | Denmark/France | 2017
 
   A software company offering access to live and historical data of the origin of electricity and its associated carbon emissions in 90+ countries, based on open-source contributions.
@@ -170,3 +174,4 @@ Short description.
 ## License
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
+
