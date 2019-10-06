@@ -184,6 +184,10 @@ Short description.
 
 ### Social Impact
 
+- [Billions in Change](https://billionsinchange.com/) | USA | 2015
+
+  Billions in Change develops and delivers inventions that help the unlucky half of the world obtain basic needs like clean water, reliable electricity, and sufficient food. Those fundamentals set the foundation for education, health, and livelihood, enabling people to improve life for themselves and for their families.
+
 - [Doconomy](https://doconomy.com/) | Sweden | 2018
 
   Fintech company promoting the reduction in consumption, by providing a credit card which uses CO2 emissions as spending limit.
@@ -207,7 +211,6 @@ Short description.
 - [Unmade](https://unmade.com/) | England | 2013
 
   Reduces waste in the fashion industry, by offering on-demand production of clothing at scale. Unmade was born out of a desire to re-imagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
-
 
 ## More Resources
 
