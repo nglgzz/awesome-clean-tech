@@ -118,6 +118,10 @@ Short description.
 - [Open Climate Fix](https://openclimatefix.github.io) | London, England | 2019
 
   Non-profit research and development lab, focused on reducing greenhouse gas emissions by solving machine learning problems. As of 2019 they are working on a forecasting system to reduce gas turbines backups on power grids that use solar energy.
+  
+ - [Rocky Mountain Institute](https://rmi.org/) | Colorado, USA | 1982
+
+  Influential research institute whose mission statement is "...to transform global energy use to create a clean, prosperous, and secure low-carbon future". Co-founded by Amory Lovins, physicist and auther of "Soft Energy Paths".
 
 - [Solar City](https://www.tesla.com/solarpanels) | California, USA | 2006
 
