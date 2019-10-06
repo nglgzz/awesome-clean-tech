@@ -135,6 +135,9 @@ Short description.
 
 Suzlon is a win turbine manufacturer. It is present in 18 countries across the continents.
 
+  - [Siemens](https://new.siemens.com/in/en.html) | Germany | 1847
+
+It manufactures wind turbines and provides onshore and offshore wind services. It is the world's second largest wind turbine manufacturer.
 
 ### Social Impact
 
