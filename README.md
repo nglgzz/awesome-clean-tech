@@ -129,6 +129,11 @@ Short description.
 - [Tomorrow](https://tmrow.com/) | Denmark/France | 2018
 
   App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
+  
+- [Billions in Change](https://billionsinchange.com/) | USA | 2015
+ 
+  Billions in Change develops and delivers inventions that help the unlucky half of the world obtain basic needs like clean water, reliable electricity, and sufficient food. Those fundamentals set the foundation for education, health, and livelihood, enabling people to improve life for themselves and for their families.
+  
 
 ## More Resources
 
