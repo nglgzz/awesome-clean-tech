@@ -1,4 +1,4 @@
-# Awesome Clean Tech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+﻿# Awesome Clean Tech [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 > Clean technology is any process, product, or service that reduces negative environmental impacts through significant energy efficiency improvements, the sustainable use of resources, or environmental protection activities.
 
@@ -56,6 +56,10 @@ Short description.
 - [Solar Foods](https://solarfoods.fi/) | Finland | 2017
 
   Produces Solein - a single-cell protein - from water, CO2 and electricity. It doesn’t require arable land or irrigation and isn’t limited by climate conditions. The original concept of Solein was born from a NASA space programme, and was further developed in the research projects of the Technical Research Centre of Finland Ltd and the Lappeenranta University of Technology (LUT).
+
+-[TerrAvion](https://www.terravion.com/) | US | 2013
+
+  Uses aerial imagery along with heat and soil maps to identify problem areas across expansive farms and efficiently deploy targeted solutions.
 
 - [Too Good To Go](https://toogoodtogo.com/en) | France | 2016
 
