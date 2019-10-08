@@ -133,7 +133,7 @@ Short description.
   
 - [Suzlon Energy Ltd.](https://www.suzlon.com/) | India | 1995
 
-Suzlon is a win turbine manufacturer. It is present in 18 countries across the continents.
+Wind turbine manufacturer present in 18 countries across the continents.
 
 - [Siemens](https://new.siemens.com/in/en.html) | Germany | 1847
 
