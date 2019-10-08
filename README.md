@@ -157,6 +157,15 @@ Short description.
 
   Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
 
+- [Kaltimex Energy](https://www.kaltimex-energy.com/) | Indonesia | 1996
+
+  Member of Indonesian Renewable Energy Society (METI) - a group of experts curated organizations that contribute to cleaner energy. Actively developing renewable energy projects through the usage of Biogas, Biomass, Municipal Solid Waste, Solar PV and other cleaner technologies.
+
+- [Surya Energi Indotama](https://suryaenergi.com/) | Indonesia | 2009
+
+  Member of Indonesian Renewable Energy Society (METI) - a group of experts curated organizations that contribute to cleaner energy. Won the 2018 Solar Power Portal Award in the "community solar installation" category for its contribution developing 492 kWp off-grid solar power plant which powered more than 850 houses and 57 public facilities in eastern Indonesia.
+
+
 ### Social Impact
 
 - [Doconomy](https://doconomy.com/) | Sweden | 2018
@@ -178,6 +187,10 @@ Short description.
 - [Tomorrow](https://tmrow.com/) | Denmark/France | 2018
 
   App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
+
+- [Lentera Bumi Nusantara](http://www.lenterabumi.com/aboutus.html/) | Indonesia | 2015
+
+  Founded by Ricky Elson, Indonesian EV technology expert who came back from Japan. The vision of this technopreneurial movement is to light up every dark corner of the country through technology and community development. Its portfolios ranging from 500W "Sky Dancer" wind turbine, use of nano cavitation to provide clean water to "Tucuxi" as the 1st national electric car.
 
 ## More Resources
 
