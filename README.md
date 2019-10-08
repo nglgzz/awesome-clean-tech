@@ -153,14 +153,14 @@ Short description.
 
   App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
 
-- [Climate Choice](https://climatechoice.co/) - A non-profit project that contains actionable guides on reducing climate change, as well as educational information about climate change.
-
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
 - [Norrsken Foundation](https://www.norrskenfoundation.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
 - [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
+- [Climate Choice](https://climatechoice.co/) - A non-profit project that contains actionable guides on reducing climate change, as well as educational information about climate change.
+
 
 ## Research
 
