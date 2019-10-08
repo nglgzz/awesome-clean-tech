@@ -137,6 +137,10 @@ Short description.
 
   Influential research institute whose mission statement is "...to transform global energy use to create a clean, prosperous, and secure low-carbon future". Co-founded by Amory Lovins, physicist and auther of "Soft Energy Paths".
 
+- [Redflow](https://redflow.com/) | Brisbane, Australia | 2001
+
+  Manufacture zinc-bromine flow batteries that tolerate daily hard work in harsh conditions with minimal reduction in capacity over time, solutions for the residential and industrial installations.
+
 - [Solar City](https://www.tesla.com/solarpanels) | California, USA | 2006
 
   Current products include a solar panel roof that collects as much power as possible without looking like a solar panel, and Powerwall, a home energy storage solution.
