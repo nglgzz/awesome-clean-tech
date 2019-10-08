@@ -89,11 +89,9 @@ Short description.
 
   Collaborated with NASA to develop a shower system that uses 90% less water. The shower has a purification system that makes it possible to reuse the same batch of water. The company now wants to make this technology - initially developed for space - available to consumers.
 
-
 - [Refill App](https://refill.org.uk/) | UK | -
 
-  This is an app which lets you find free water refill stations across the UK. Currently there are more than 20,000 free stations across the nation. The app also tracks saved bottles, saved carbon and donates 13p every time you refill a bottle to planet protecting campaings.  
-
+  This is an app which lets you find free water refill stations across the UK. Currently there are more than 20,000 free stations across the nation. The app also tracks saved bottles, saved carbon and donates 13p every time you refill a bottle to planet protecting campaings.
 
 - [Solar Water Solutions](https://solarwatersolutions.fi/en/) | Finland | -
 
@@ -132,14 +130,18 @@ Short description.
 - [Open Climate Fix](https://openclimatefix.github.io) | London, England | 2019
 
   Non-profit research and development lab, focused on reducing greenhouse gas emissions by solving machine learning problems. As of 2019 they are working on a forecasting system to reduce gas turbines backups on power grids that use solar energy.
-  
- - [Rocky Mountain Institute](https://rmi.org/) | Colorado, USA | 1982
-
-  Influential research institute whose mission statement is "...to transform global energy use to create a clean, prosperous, and secure low-carbon future". Co-founded by Amory Lovins, physicist and auther of "Soft Energy Paths".
 
 - [Redflow](https://redflow.com/) | Brisbane, Australia | 2001
 
   Manufacture zinc-bromine flow batteries that tolerate daily hard work in harsh conditions with minimal reduction in capacity over time, solutions for the residential and industrial installations.
+
+- [Rocky Mountain Institute](https://rmi.org/) | Colorado, USA | 1982
+
+  Influential research institute whose mission statement is "...to transform global energy use to create a clean, prosperous, and secure low-carbon future". Co-founded by Amory Lovins, physicist and auther of "Soft Energy Paths".
+
+- [Siemens](https://new.siemens.com/in/en.html) | Germany | 1847
+
+  Multinational manufacturing company. Among their many projects they produce wind turbines and provide onshore and offshore wind services. It is the world's third largest wind turbine manufacturer as of 2018.
 
 - [Solar City](https://www.tesla.com/solarpanels) | California, USA | 2006
 
@@ -149,6 +151,10 @@ Short description.
 
   Produces energy storage solutions for households. Also, they currently provide the largest network for sharing power from renewable energies, operating in Germany.
 
+- [Suzlon Energy Ltd.](https://www.suzlon.com/) | India | 1995
+
+  Wind turbine manufacturer present in 18 countries across the continents.
+
 - [Tesla](https://www.tesla.com/solarpanels) | California, USA | 2003
 
   Specialized in electric car manufacturing and through, its SolarCity subsidiary, solar panel manufacturing.
@@ -156,6 +162,7 @@ Short description.
 - [Vestas](https://www.vestas.com/) | Denmark | 1945
 
   Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
+
 
 ### Social Impact
 
@@ -171,21 +178,22 @@ Short description.
 
   Internet search engine that donates its surplus income to non-profit organizations that focus on reforestation. According to their website, as of July 2019, they have been responsible for the planting of 60 million trees.
 
+- [Tomorrow](https://tmrow.com/) | Denmark/France | 2018
+
+  App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
+
 - [Unmade](https://unmade.com/) | England | 2013
 
   Reduces waste in the fashion industry, by offering on-demand production of clothing at scale. Unmade was born out of a desire to re-imagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
 
-- [Tomorrow](https://tmrow.com/) | Denmark/France | 2018
-
-  App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
 
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
-- [Norrsken Foundation](https://www.norrskenfoundation.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
-- [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
 - [Climate Choice](https://climatechoice.co/) - A non-profit project that contains actionable guides on reducing climate change, as well as educational information about climate change.
+- [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
+- [Norrsken Foundation](https://www.norrskenfoundation.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
 
 
 ## Research
@@ -199,4 +207,3 @@ Short description.
 ## License
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
-
