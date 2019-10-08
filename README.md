@@ -9,7 +9,7 @@ _Contributions to this list are welcome! Just edit the [README.md](./edit/master
 ## Contents
 
 - [Companies](#companies)
-  - [Agriculture & Food](#agriculture--food)
+  - [Vegetation, Agriculture & Food](#vegetation-agriculture--food)
   - [Materials](#materials)
   - [Water](#water)
   - [Energy](#energy)
@@ -27,7 +27,11 @@ The format for companies is the following:
 Short description.
 ```
 
-### Agriculture & Food
+### Vegetation, Agriculture & Food
+
+- [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
+
+  They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
 
 - [Impossible Foods](https://impossiblefoods.com/) | California, USA | 2011
 
@@ -35,9 +39,11 @@ Short description.
 
 - [Karma](https://new.karma.life/) | Sweden | 2016
 
-  Helps restaurants, cafes, and grocery stores selling their surplus food at a
-  discounted price. As a result, users get food for less and businesses receive
-  an additional revenue stream — all while reducing food waste.
+  Helps restaurants, cafes, and grocery stores selling their surplus food at a discounted price. As a result, users get food for less and businesses receive an additional revenue stream — all while reducing food waste.
+
+- [Land Life Company](https://landlifecompany.com/) | Amsterdam | 2013
+
+  Their mission is to reforest the world’s 2 billion hectares of degraded land.
 
 - [Olio](https://olioex.com/) | UK | 2015
 
@@ -53,10 +59,7 @@ Short description.
 
 - [Too Good To Go](https://toogoodtogo.com/en) | France | 2016
 
-  Gives the possibility for restaurants, stores, bakeries and cafés to sell
-  unsold food at the end of the day. Since it is impossible to know in advance
-  what will be the unsolds of the day, the users get a "surprise basket" of
-  about 500g of food. Pretty much like Karma, but more present in France.
+  Gives the possibility for restaurants, stores, bakeries and cafés to sell unsold food at the end of the day. Since it is impossible to know in advance what will be the unsolds of the day, the users get a "surprise basket" of about 500g of food. Pretty much like Karma, but more present in France.
 
 - [Vultus](https://www.vultus.se/) | Sweden | 2016
 
@@ -68,6 +71,14 @@ Short description.
 
   Offers a biomaterial produced from food and vegetable waste, that can be used for packaging as an alternative to plastic. This material is translucent, resistent, and home compostable.
 
+- [Organicbasics](https://organicbasics.com) | Denmark | 2015
+
+  Offers underwear, essentials and activewear made consciously in Europe. The material used for their production is natural, renewable, recycled, biodegradable and or low-impact textiles only.
+
+- [SkyCool Systems](http://skycoolsystems.com) | California, USA | 2016
+
+  Manufacture add-ons to vapor-compression based cooling systems, which reduce their electricity usage while being CO2 neutral themselves.
+
 ### Water
 
 - [The Ocean Cleanup](https://theoceancleanup.com/) | Netherlands | 2013
@@ -78,6 +89,12 @@ Short description.
 
   Collaborated with NASA to develop a shower system that uses 90% less water. The shower has a purification system that makes it possible to reuse the same batch of water. The company now wants to make this technology - initially developed for space - available to consumers.
 
+
+- [Refill App](https://refill.org.uk/) | UK | -
+
+  This is an app which lets you find free water refill stations across the UK. Currently there are more than 20,000 free stations across the nation. The app also tracks saved bottles, saved carbon and donates 13p every time you refill a bottle to planet protecting campaings.  
+
+
 - [Solar Water Solutions](https://solarwatersolutions.fi/en/) | Finland | -
 
   Develops a reverse osmosis technology for producing drinking water with low operating expenses and no CO2 emissions. The desalination system is fully solar, independent of external energy sources and easy-to-use and maintain.
@@ -85,10 +102,13 @@ Short description.
 - [Aquatech Systems Asia Pvt Ltd](https://www.aquatech.com/) | Pennsylvania, USA | 1981
   
   Aquatech is a global leader in water purification technology for industrial and infrastructure markets with a focus on water recycle and reuse, desalination,  and zero liquid discharge (ZLD).
-
   
 
 ### Energy
+
+- [Bulb](https://bulb.co.uk/) | UK | 2013
+
+  The UK's biggest green supplier. They provide members with 100% renewable electricity from solar, wind and hydro. Plus, the gas is 100% carbon neutral. 10% is green gas produced from renewable sources like food or farm waste.
 
 - [ElectricityMap.org](https://www.electricitymap.org/) | Denmark/France | 2017
 
@@ -98,17 +118,41 @@ Short description.
 
   Converts electrical energy to compressed air stored in accumulators under water. Once in the accumulators, the energy can be stored until required by the grid. When the energy is required, the weight of the water pushes the air back to the surface, where it is converted to electricity using a generator.
 
+- [Inspire](https://www.helloinspire.com/) | Philadelphia, USA | 2014
+
+  Simplifying consumer adoption of clean energy by offering an array of affordable clean energy plans to homeowners that integrate with smart home technologies.
+
+- [Marcel](https://www.marcel.cab/engagements-rse/) | France | 2011
+
+  An online taxi app like Uber that gives the possibility to use electric cars and partners with the GoodPlanet foundation to fully compensate for the carbon generated by its rides. Since 2019 it is only available in France.
+
+- [Momentum Dynamics](https://www.momentumdynamics.com/) | Pennsylvania, USA
+
+  Developing wireless charging for the automotive and transportation industry.  Allows any type of vehicle or appliance to be connected to electrical power grid without the use of cables or wires.
+
 - [Nel ASA](https://nelhydrogen.com/) | Norway | 1927
 
   Provides solutions for the production, storage and distribution of hydrogen from renewable energy sources.
 
 - [Open Climate Fix](https://openclimatefix.github.io) | London, England | 2019
 
-  Non-profit research and development lab, focused on reducing greenhouse gas emissions by solving machine learning problems. Currently they are working on a forecasting system to reduce gas turbines backups on power grids that use solar energy.
+  Non-profit research and development lab, focused on reducing greenhouse gas emissions by solving machine learning problems. As of 2019 they are working on a forecasting system to reduce gas turbines backups on power grids that use solar energy.
+  
+ - [Rocky Mountain Institute](https://rmi.org/) | Colorado, USA | 1982
+
+  Influential research institute whose mission statement is "...to transform global energy use to create a clean, prosperous, and secure low-carbon future". Co-founded by Amory Lovins, physicist and auther of "Soft Energy Paths".
+
+- [Redflow](https://redflow.com/) | Brisbane, Australia | 2001
+
+  Manufacture zinc-bromine flow batteries that tolerate daily hard work in harsh conditions with minimal reduction in capacity over time, solutions for the residential and industrial installations.
 
 - [Solar City](https://www.tesla.com/solarpanels) | California, USA | 2006
 
   Current products include a solar panel roof that collects as much power as possible without looking like a solar panel, and Powerwall, a home energy storage solution.
+
+- [Sonnen](https://sonnenusa.com) | Germany | 2010
+
+  Produces energy storage solutions for households. Also, they currently provide the largest network for sharing power from renewable energies, operating in Germany.
 
 - [Tesla](https://www.tesla.com/solarpanels) | California, USA | 2003
 
@@ -132,6 +176,10 @@ Short description.
 
   Internet search engine that donates its surplus income to non-profit organizations that focus on reforestation. According to their website, as of July 2019, they have been responsible for the planting of 60 million trees.
 
+- [Unmade](https://unmade.com/) | England | 2013
+
+  Reduces waste in the fashion industry, by offering on-demand production of clothing at scale. Unmade was born out of a desire to re-imagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
+
 - [Tomorrow](https://tmrow.com/) | Denmark/France | 2018
 
   App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
@@ -141,11 +189,13 @@ Short description.
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
 - [Norrsken Foundation](https://www.norrskenfoundation.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
+- [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
 
 ## Research
 
 - [Environmental Protection Agency](https://www.epa.gov/climate-research) - Research on effects of climate change and solutions.
 - [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/library/) - United Nations body for assessing the science related to climate change.
+- [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) - Providing solution-oriented policy pathways for governing the global commons to enhance sustainable development and human well-being.
 - [NASA climate](http://climate.nasa.gov/) - Vital signs of the planet, facts, and solutions.
 
 ## License
