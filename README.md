@@ -81,6 +81,12 @@ Short description.
 - [Solar Water Solutions](https://solarwatersolutions.fi/en/) | Finland | -
 
   Develops a reverse osmosis technology for producing drinking water with low operating expenses and no CO2 emissions. The desalination system is fully solar, independent of external energy sources and easy-to-use and maintain.
+  
+- [Aquatech Systems Asia Pvt Ltd](https://www.aquatech.com/) | Pennsylvania, USA | 1981
+  
+  Aquatech is a global leader in water purification technology for industrial and infrastructure markets with a focus on water recycle and reuse, desalination,  and zero liquid discharge (ZLD).
+
+  
 
 ### Energy
 
