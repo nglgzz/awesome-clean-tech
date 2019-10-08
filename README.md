@@ -185,6 +185,8 @@ Short description.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
 - [Norrsken Foundation](https://www.norrskenfoundation.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
 - [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
+- [Climate Choice](https://climatechoice.co/) - A non-profit project that contains actionable guides on reducing climate change, as well as educational information about climate change.
+
 
 ## Research
 
@@ -192,6 +194,7 @@ Short description.
 - [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/library/) - United Nations body for assessing the science related to climate change.
 - [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) - Providing solution-oriented policy pathways for governing the global commons to enhance sustainable development and human well-being.
 - [NASA climate](http://climate.nasa.gov/) - Vital signs of the planet, facts, and solutions.
+- [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019) - This contains country specific climate reports from several U.N countries. It has data from 2003 onwards.
 
 ## License
 
