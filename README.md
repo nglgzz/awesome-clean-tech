@@ -119,9 +119,17 @@ Short description.
 
   Non-profit research and development lab, focused on reducing greenhouse gas emissions by solving machine learning problems. As of 2019 they are working on a forecasting system to reduce gas turbines backups on power grids that use solar energy.
 
+- [Siemens](https://new.siemens.com/in/en.html) | Germany | 1847
+
+  Multinational manufacturing company. Among their many projects they produce wind turbines and provide onshore and offshore wind services. It is the world's third largest wind turbine manufacturer as of 2018.
+
 - [Solar City](https://www.tesla.com/solarpanels) | California, USA | 2006
 
   Current products include a solar panel roof that collects as much power as possible without looking like a solar panel, and Powerwall, a home energy storage solution.
+
+- [Suzlon Energy Ltd.](https://www.suzlon.com/) | India | 1995
+
+  Wind turbine manufacturer present in 18 countries across the continents.
 
 - [Tesla](https://www.tesla.com/solarpanels) | California, USA | 2003
 
@@ -130,14 +138,7 @@ Short description.
 - [Vestas](https://www.vestas.com/) | Denmark | 1945
 
   Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
-  
-- [Suzlon Energy Ltd.](https://www.suzlon.com/) | India | 1995
 
-Wind turbine manufacturer present in 18 countries across the continents.
-
-- [Siemens](https://new.siemens.com/in/en.html) | Germany | 1847
-
-Multinational manufacturing company. Among their many projects they produce wind turbines and provide onshore and offshore wind services. It is the world's third largest wind turbine manufacturer as of 2018.
 
 ### Social Impact
 
