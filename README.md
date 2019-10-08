@@ -137,7 +137,7 @@ Wind turbine manufacturer present in 18 countries across the continents.
 
 - [Siemens](https://new.siemens.com/in/en.html) | Germany | 1847
 
-It manufactures wind turbines and provides onshore and offshore wind services. It is the world's second largest wind turbine manufacturer.
+Multinational manufacturing company. Among their many projects they produce wind turbines and provide onshore and offshore wind services. It is the world's third largest wind turbine manufacturer as of 2018.
 
 ### Social Impact
 
