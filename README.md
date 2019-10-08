@@ -82,10 +82,9 @@ Short description.
 
   Collaborated with NASA to develop a shower system that uses 90% less water. The shower has a purification system that makes it possible to reuse the same batch of water. The company now wants to make this technology - initially developed for space - available to consumers.
 
-- [Seabin Project](https://seabinproject.com/) | Australia | -
+- [Seabin Project](https://seabinproject.com/) | Australia | 2016
 
-  To provide practical and tangible solutions to reduce the plastics in our oceans which is one of the world’s greatest problems.
-  The idea was if there was rubbish bins on land, why not in the water? Over time, the scope of the project evolved into a comprehensive research, technology, and educational initiative with global interest and reach.
+  Their mission is to reduce plastic in the oceans through a floating rubbish bin that collect pollutants on the water surface. As of October 2019 they have deployed 719 Seabins and are capturing almost 3 tonnes of rubbish per day.
 
 - [Solar Water Solutions](https://solarwatersolutions.fi/en/) | Finland | -
 
@@ -132,9 +131,9 @@ Short description.
 
   Specialized in electric car manufacturing and through, its SolarCity subsidiary, solar panel manufacturing.
 
-- [Tessol](https://www.tessol.in/) | Mumbai, India | 2013
+- [Ushva Clean Technology](http://www.ushva.com/) | Mumbai, India | 2015
 
-  Focuses on technologies that have tremendous potential to impact current thermal applications in Agricultural, Commercial and Industrial facilities. 
+   They believe in optimizing the energy consumption without compromising with the convenience and then neutralizing the remaining energy requirement. Their vision is to provide accessibility to affordable power derived from renewable resources, free of geographic and transmission constraints.
 
 - [Vestas](https://www.vestas.com/) | Denmark | 1945
 
