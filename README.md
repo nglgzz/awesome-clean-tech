@@ -85,6 +85,12 @@ Short description.
 
   Collaborated with NASA to develop a shower system that uses 90% less water. The shower has a purification system that makes it possible to reuse the same batch of water. The company now wants to make this technology - initially developed for space - available to consumers.
 
+
+- [Refill App](https://refill.org.uk/) | UK | -
+
+  This is an app which lets you find free water refill stations across the UK. Currently there are more than 20,000 free stations across the nation. The app also tracks saved bottles, saved carbon and donates 13p every time you refill a bottle to planet protecting campaings.  
+
+
 - [Solar Water Solutions](https://solarwatersolutions.fi/en/) | Finland | -
 
   Develops a reverse osmosis technology for producing drinking water with low operating expenses and no CO2 emissions. The desalination system is fully solar, independent of external energy sources and easy-to-use and maintain.
