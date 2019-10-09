@@ -126,6 +126,10 @@ Short description.
 - [Nel ASA](https://nelhydrogen.com/) | Norway | 1927
 
   Provides solutions for the production, storage and distribution of hydrogen from renewable energy sources.
+  
+- [New World Wind](http://newworldwind.com/en) | France |  2011
+
+  Builds "wind trees" with dozens of micro wind turbines that look like leaves on a tree.
 
 - [Open Climate Fix](https://openclimatefix.github.io) | London, England | 2019
 
