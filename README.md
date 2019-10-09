@@ -64,6 +64,10 @@ Short description.
 - [Vultus](https://www.vultus.se/) | Sweden | 2016
 
   Uses satellite imaging to save fertilizer usage up to 30%, and track crops health. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
+  
+- [Kheyti](https://kheyti.com/) | India | 2015
+
+  They implement low-cost farming solutions such as "Greenhouse-in-a-box" to help small farmers increase yield and predictability of produce. 
 
 ### Materials
 
