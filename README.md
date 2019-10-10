@@ -106,6 +106,10 @@ Short description.
 - [ElectricityMap.org](https://www.electricitymap.org/) | Denmark/France | 2017
 
   A software company offering access to live and historical data of the origin of electricity and its associated carbon emissions in 90+ countries, based on open-source contributions.
+  
+- [Gogoro](https://www.gogoro.com/) | Taiwan | 2011
+
+  Develops and sells electric scooters and battery swapping infrastructure.
 
 - [Hydrostor](https://www.hydrostor.ca/) | Canada | 2010
 
