@@ -163,7 +163,10 @@ Short description.
 
   Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
 
-
+-[ChargePoint](https://www.chargepoint.com/) | California,USA | 2007
+  
+  ChargePoint operates a open electric vehicle (EV) charging network and makes technology used in it.
+  
 ### Social Impact
 
 - [Doconomy](https://doconomy.com/) | Sweden | 2018
