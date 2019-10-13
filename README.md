@@ -93,6 +93,10 @@ Short description.
 
   This is an app which lets you find free water refill stations across the UK. Currently there are more than 20,000 free stations across the nation. The app also tracks saved bottles, saved carbon and donates 13p every time you refill a bottle to planet protecting campaings.
 
+- [SeaBin Project](https://seabinproject.com/) | Australia | 2015
+
+  Develoved The Seabin a device with the goal of cleaning up the ocean water. It pulls water in from its surroundings, along with the accompanying trash, debris and pollutants filtering the water and garbage through a catch bag and filter. The water is later pumped back into the ocean while the pollutants remain behind in the device. The Seabin Project has now evolved into a full Fleged organisation in pursuit of protecting the oceans.
+
 - [Solar Water Solutions](https://solarwatersolutions.fi/en/) | Finland | -
 
   Develops a reverse osmosis technology for producing drinking water with low operating expenses and no CO2 emissions. The desalination system is fully solar, independent of external energy sources and easy-to-use and maintain.
