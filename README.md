@@ -103,6 +103,10 @@ Short description.
 
   Develops a reverse osmosis technology for producing drinking water with low operating expenses and no CO2 emissions. The desalination system is fully solar, independent of external energy sources and easy-to-use and maintain.
 
+- [ TerrAvion ] (https://www.terravion.com/) | USA | 2014 | -
+  
+  TerrAvion helps farms take a high-­tech approach to improve yield and revenue, with the largest cloud-­based aerial imaging and data analytics service for agriculture. 
+
 ### Energy
 
 - [Bulb](https://bulb.co.uk/) | UK | 2013
