@@ -65,6 +65,10 @@ Short description.
 
   Uses satellite imaging to save fertilizer usage up to 30%, and track crops health. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
 
+- [Unilever](https://www.unilever.com/) | United Kingdom | 1929
+
+  Unilever (UL) is the global corporate leader in environmental sustainability. It aims to become carbon positive 2030. This means it will eliminate the use of fossil fuels and support generation of renewable resources. It will work to ensure that all of its agricultural material will come from sustainable sources. It will do so by working with farmers to reduce environmental harm.
+
 ### Materials
 
 - [Cellugy](https://cellugy.com/) | Denmark | 2018
