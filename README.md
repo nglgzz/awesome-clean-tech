@@ -93,6 +93,10 @@ Short description.
 
   This is an app which lets you find free water refill stations across the UK. Currently there are more than 20,000 free stations across the nation. The app also tracks saved bottles, saved carbon and donates 13p every time you refill a bottle to planet protecting campaings.
 
+- [Seabin Project](https://seabinproject.com/) | Australia | 2016
+
+  Their mission is to reduce plastic in the oceans through a floating rubbish bin that collect pollutants on the water surface. As of October 2019 they have deployed 719 Seabins and are capturing almost 3 tonnes of rubbish per day.
+
 - [Solar Water Solutions](https://solarwatersolutions.fi/en/) | Finland | -
 
   Develops a reverse osmosis technology for producing drinking water with low operating expenses and no CO2 emissions. The desalination system is fully solar, independent of external energy sources and easy-to-use and maintain.
@@ -158,6 +162,10 @@ Short description.
 - [Tesla](https://www.tesla.com/solarpanels) | California, USA | 2003
 
   Specialized in electric car manufacturing and through, its SolarCity subsidiary, solar panel manufacturing.
+
+- [Ushva Clean Technology](http://www.ushva.com/) | Mumbai, India | 2015
+
+   They believe in optimizing the energy consumption without compromising with the convenience and then neutralizing the remaining energy requirement. Their vision is to provide accessibility to affordable power derived from renewable resources, free of geographic and transmission constraints.
 
 - [Vestas](https://www.vestas.com/) | Denmark | 1945
 
