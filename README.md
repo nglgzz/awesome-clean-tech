@@ -174,6 +174,10 @@ Short description.
 
   They believe in optimizing the energy consumption without compromising with the convenience and then neutralizing the remaining energy requirement. Their vision is to provide accessibility to affordable power derived from renewable resources, free of geographic and transmission constraints.
 
+  [Uncharted Power] (https://www.u-pwr.co/) | New York, New York | 2011
+
+   A full-service energy and data infrastructure technology company. Provides clean and low-cost power to communities around the world by building and operating their  own smart city infrastructure.
+
 - [Vestas](https://www.vestas.com/) | Denmark | 1945
 
   Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
