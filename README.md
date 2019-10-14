@@ -37,6 +37,10 @@ Short description.
 
   Their plant based burgers require 96% less land, 87% less water, and 89% less greenhouse emissions to produce than traditional burgers. Their mission is to produce plant based meat in order to reduce the impact of the meat industry on the environment.
 
+- [HappyCow](https://www.happycow.net/) | California, USA | 1999
+
+  Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
+
 - [Karma](https://new.karma.life/) | Sweden | 2016
 
   Helps restaurants, cafes, and grocery stores selling their surplus food at a discounted price. As a result, users get food for less and businesses receive an additional revenue stream — all while reducing food waste.
