@@ -29,6 +29,10 @@ Short description.
 
 ### Vegetation, Agriculture & Food
 
+- [AquaAgro](https://aquaagro.smartcube.pk/) | Karachi, Pakistan | 2018
+
+  AquaAgro is Pakistan’s first Agri-Data company offering IoT and AI enabled solutions for precious farming. Farmers can take control of their farms by monitoring all of their farm parameters and taking the right decisions provided by our decision support system. Our hardware devices and software/app platforms can make predictions for Irrigation scheduling, Fertilizer requirement, Pest attack prediction, Plant disease detection. The farmers can save up to 50% water and costs associated with it such as fuel, electricity, etc. and can grow up to 35% more crop.
+
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 
   They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
