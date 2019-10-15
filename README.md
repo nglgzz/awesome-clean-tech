@@ -110,7 +110,7 @@ Short description.
 
   The UK's biggest green supplier. They provide members with 100% renewable electricity from solar, wind and hydro. Plus, the gas is 100% carbon neutral. 10% is green gas produced from renewable sources like food or farm waste.
 
-- [Carbon Egnineering](https://carbonengineering.com/) | Canada | 2009
+- [Carbon Engineering](https://carbonengineering.com/) | Canada | 2009
 
   Using [Direct Air Capture](https://en.wikipedia.org/wiki/Direct_air_capture) technology, Carbon Engineering aims to take existing CO<sub>2</sub> directly out of the air, then using the gas to make carbon neutral synthetic fuels for planes, trucks, and ships. With support from Bill Gates and oil sands magnate Norman Murray Edwards, it's sure to see success in cleanly fueling global shipping infrastructure.
 
