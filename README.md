@@ -178,6 +178,10 @@ Short description.
 
   Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
 
+- [Trace Solar](https://tracesolar.com/) | Dominican Republic | 2013
+
+  Dedicated to offering solutions and services aimed at renewable energies and energy efficiency, with the commitment to help people, companies and industries to maximize the use of their energy in a safer, more reliable and efficient way.
+
 ### Social Impact
 
 - [Doconomy](https://doconomy.com/) | Sweden | 2018
