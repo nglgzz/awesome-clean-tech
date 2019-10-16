@@ -29,6 +29,10 @@ Short description.
 
 ### Vegetation, Agriculture & Food
 
+- [Augmenta](http://www.augmenta.ag) | Athens,Greece | 2016
+   
+  Agtech startup developed a plug and play device called the "Field Analyzer" that can be attached to any tractor and can determine the amount of fertilizers fungicides and pesticides that every inch of the farm needs to reach to its full potential, all in real-time.Augmenta has partnered with NVIDIA for the development of its cutting edge deep learning device.
+ 
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 
   They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
