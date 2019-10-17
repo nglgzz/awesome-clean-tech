@@ -204,6 +204,10 @@ Short description.
 
   Reduces waste in the fashion industry, by offering on-demand production of clothing at scale. Unmade was born out of a desire to re-imagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
 
+- [Ewally](https://ewally.com.mx/) | Mexico | 2017
+
+  System and App that provide a complete and eco-friendly trash collection service promoting the recycling culture. The wall between ocean and trash.
+
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
