@@ -181,6 +181,9 @@ Short description.
 - [Vestas](https://www.vestas.com/) | Denmark | 1945
 
   Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
+- [SELCO India](http://www.selco-india.com/)|1995
+played an instrumental role in improving living standards of poor households in rural India especially in the state of Karnataka through solar energy based interventions and low smoke cook stoves.
+
 
 ### Social Impact
 
