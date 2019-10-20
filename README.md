@@ -212,6 +212,7 @@ Short description.
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
+- [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
 - [Climate Choice](https://climatechoice.co/) - A non-profit project that contains actionable guides on reducing climate change, as well as educational information about climate change.
 - [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
