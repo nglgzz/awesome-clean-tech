@@ -196,6 +196,10 @@ Short description.
 
   Internet search engine that donates its surplus income to non-profit organizations that focus on reforestation. According to their website, as of July 2019, they have been responsible for the planting of 60 million trees.
 
+- [Ewally](https://ewally.com.mx/) | Mexico | 2017
+
+  System and App that provide a complete and eco-friendly trash collection service promoting the recycling culture. The wall between ocean and trash.
+
 - [Tomorrow](https://tmrow.com/) | Denmark/France | 2018
 
   App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
@@ -203,6 +207,7 @@ Short description.
 - [Unmade](https://unmade.com/) | England | 2013
 
   Reduces waste in the fashion industry, by offering on-demand production of clothing at scale. Unmade was born out of a desire to re-imagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
+
 
 ## More Resources
 
