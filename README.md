@@ -87,6 +87,10 @@ Provides solutions for precision farming, enabling farmers to monitor their crop
 
   Manufacture add-ons to vapor-compression based cooling systems, which reduce their electricity usage while being CO2 neutral themselves.
 
+- [Chakr Innovation](https://chakr.in) | India | 2015
+
+  Developed world’s first retro-fit emission control device for diesel generators. This technology can capture ~90% of particulate matter emissions from the exhaust of diesel generators without causing any adverse impact on the engine, and convert it into non-toxic paints and inks.
+
 ### Water
 
 - [The great bubble barrier](https://thegreatbubblebarrier.com) | Netherlands | 2016
