@@ -29,6 +29,10 @@ Short description.
 
 ### Vegetation, Agriculture & Food
 
+- [AquaAgro](https://aquaagro.smartcube.pk/) | Karachi, Pakistan | 2018
+
+Provides solutions for precision farming, enabling farmers to monitor their crops and make better decisions. Their devices and platform can make predictions for irrigation scheduling, fertilizer requirement, pest attack prediction, and plant disease detection. 
+
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 
   They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
