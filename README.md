@@ -49,7 +49,7 @@ Short description.
 
   Mobile app for food-sharing, aiming to reduce food waste. It does this by connecting those with surplus food to those who need or wish to consume such food. The food must be edible; it can be raw or cooked, sealed or open.
 
-- [Peckas Tomater](https://peckas.com) | Sweden | 2015
+- [Peckas Tomater](http://www.peckas.com) | Sweden | 2015
 
   Combined tomato and fish farm grown in a system where fish basin waste water nourishes tomatoes, and the tomato bed in turn cleans the water which goes back to the fish basins. Their fish is grown without antibiotics and the tomates does not need fertilizers.
 
