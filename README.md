@@ -86,7 +86,8 @@ Short description.
 ### Water
 
 - [The great bubble barrier](https://thegreatbubblebarrier.com) | Netherlands | 2016
-  Developped a system working with a tube with holes placed on the bottom of a river. Pumping air through the tube creates a bubble barrier, or air curtain. The air bubbles force plastics in the water to the surface, making them accessible for removal.
+
+  Developed a system working with a tube with holes placed on the bottom of a river. Pumping air through the tube creates a bubble barrier, or air curtain. The air bubbles force plastics in the water to the surface, making them accessible for removal.
 
 - [The Ocean Cleanup](https://theoceancleanup.com/) | Netherlands | 2013
 
