@@ -233,7 +233,7 @@ Provides solutions for precision farming, enabling farmers to monitor their crop
 - [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) - Providing solution-oriented policy pathways for governing the global commons to enhance sustainable development and human well-being.
 - [NASA climate](http://climate.nasa.gov/) - Vital signs of the planet, facts, and solutions.
 - [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019) - This contains country specific climate reports from several U.N countries. It has data from 2003 onwards.
-
+END
 ## License
 
 This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](./LICENSE).
