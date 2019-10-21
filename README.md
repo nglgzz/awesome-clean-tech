@@ -31,7 +31,7 @@ Short description.
 
 - [AquaAgro](https://aquaagro.smartcube.pk/) | Karachi, Pakistan | 2018
 
-  AquaAgro is Pakistan’s first Agri-Data company offering IoT and AI enabled solutions for precious farming. Farmers can take control of their farms by monitoring all of their farm parameters and taking the right decisions provided by our decision support system. Our hardware devices and software/app platforms can make predictions for Irrigation scheduling, Fertilizer requirement, Pest attack prediction, Plant disease detection. The farmers can save up to 50% water and costs associated with it such as fuel, electricity, etc. and can grow up to 35% more crop.
+Provides solutions for precision farming, enabling farmers to monitor their crops and make better decisions. Their devices and platform can make predictions for irrigation scheduling, fertilizer requirement, pest attack prediction, and plant disease detection. 
 
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 
