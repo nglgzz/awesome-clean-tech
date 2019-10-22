@@ -217,6 +217,10 @@ Provides solutions for precision farming, enabling farmers to monitor their crop
 
   App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
 
+- [Triodos Bank](https://www.triodos.com) | Netherlands | 1980
+
+   European Bank for consumers and businesses that only lends to organisations who make positive environmental and social change. They invest significantly in renewable energy systems and publish details of every organisation they finance on their website.
+
 - [Unmade](https://unmade.com/) | England | 2013
 
   Reduces waste in the fashion industry, by offering on-demand production of clothing at scale. Unmade was born out of a desire to re-imagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
