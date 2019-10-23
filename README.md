@@ -233,6 +233,7 @@ Provides solutions for precision farming, enabling farmers to monitor their crop
 
 ## Research
 
+- [Blue Sky Analytics](https://blueskyhq.in) - A Big Data and AI startup building Geospatial Data Platforms for Environmental Data.
 - [Environmental Protection Agency](https://www.epa.gov/climate-research) - Research on effects of climate change and solutions.
 - [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/library/) - United Nations body for assessing the science related to climate change.
 - [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) - Providing solution-oriented policy pathways for governing the global commons to enhance sustainable development and human well-being.
