@@ -9,7 +9,8 @@ _Contributions to this list are welcome! Just edit the [README.md](./edit/master
 ## Contents
 
 - [Companies](#companies)
-  - [Vegetation, Agriculture & Food](#vegetation-agriculture--food)
+  - [Vegetation & Agriculture](#vegetation--agriculture)
+  - [Food](#food)
   - [Materials](#materials)
   - [Water](#water)
   - [Energy](#energy)
@@ -27,11 +28,11 @@ The format for companies is the following:
 Short description.
 ```
 
-### Vegetation, Agriculture & Food
+### Vegetation & Agriculture
 
 - [AquaAgro](https://aquaagro.smartcube.pk/) | Karachi, Pakistan | 2018
 
-Provides solutions for precision farming, enabling farmers to monitor their crops and make better decisions. Their devices and platform can make predictions for irrigation scheduling, fertilizer requirement, pest attack prediction, and plant disease detection. 
+  Provides solutions for precision farming, enabling farmers to monitor their crops and make better decisions. Their devices and platform can make predictions for irrigation scheduling, fertilizer requirement, pest attack prediction, and plant disease detection. 
 
 - [Bowery Farming](https://boweryfarming.com) | New York, USA | 2015
 
@@ -41,25 +42,9 @@ Provides solutions for precision farming, enabling farmers to monitor their crop
 
   They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
 
-- [Impossible Foods](https://impossiblefoods.com/) | California, USA | 2011
-
-  Their plant based burgers require 96% less land, 87% less water, and 89% less greenhouse emissions to produce than traditional burgers. Their mission is to produce plant based meat in order to reduce the impact of the meat industry on the environment.
-
-- [HappyCow](https://www.happycow.net/) | California, USA | 1999
-
-  Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
-
-- [Karma](https://new.karma.life/) | Sweden | 2016
-
-  Helps restaurants, cafes, and grocery stores selling their surplus food at a discounted price. As a result, users get food for less and businesses receive an additional revenue stream — all while reducing food waste.
-
 - [Land Life Company](https://landlifecompany.com/) | Amsterdam | 2013
 
   Their mission is to reforest the world’s 2 billion hectares of degraded land.
-
-- [Olio](https://olioex.com/) | UK | 2015
-
-  Mobile app for food-sharing, aiming to reduce food waste. It does this by connecting those with surplus food to those who need or wish to consume such food. The food must be edible; it can be raw or cooked, sealed or open.
 
 - [Peckas Tomater](http://www.peckas.com) | Sweden | 2015
 
@@ -73,13 +58,31 @@ Provides solutions for precision farming, enabling farmers to monitor their crop
 
   Produces Solein - a single-cell protein - from water, CO2 and electricity. It doesn’t require arable land or irrigation and isn’t limited by climate conditions. The original concept of Solein was born from a NASA space programme, and was further developed in the research projects of the Technical Research Centre of Finland Ltd and the Lappeenranta University of Technology (LUT).
 
-- [Too Good To Go](https://toogoodtogo.com/en) | France | 2016
-
-  Gives the possibility for restaurants, stores, bakeries and cafés to sell unsold food at the end of the day. Since it is impossible to know in advance what will be the unsolds of the day, the users get a "surprise basket" of about 500g of food. Pretty much like Karma, but more present in France.
-
 - [Vultus](https://www.vultus.se/) | Sweden | 2016
 
   Uses satellite imaging to save fertilizer usage up to 30%, and track crops health. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
+
+### Food
+
+- [Impossible Foods](https://impossiblefoods.com/) | California, USA | 2011
+
+  Their plant based burgers require 96% less land, 87% less water, and 89% less greenhouse emissions to produce than traditional burgers. Their mission is to produce plant based meat in order to reduce the impact of the meat industry on the environment.
+
+- [HappyCow](https://www.happycow.net/) | California, USA | 1999
+
+  Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
+
+- [Karma](https://new.karma.life/) | Sweden | 2016
+
+  Helps restaurants, cafes, and grocery stores selling their surplus food at a discounted price. As a result, users get food for less and businesses receive an additional revenue stream — all while reducing food waste.
+
+- [Olio](https://olioex.com/) | UK | 2015
+
+  Mobile app for food-sharing, aiming to reduce food waste. It does this by connecting those with surplus food to those who need or wish to consume such food. The food must be edible; it can be raw or cooked, sealed or open.
+
+- [Too Good To Go](https://toogoodtogo.com/en) | France | 2016
+
+  Gives the possibility for restaurants, stores, bakeries and cafés to sell unsold food at the end of the day. Since it is impossible to know in advance what will be the unsolds of the day, the users get a "surprise basket" of about 500g of food. Pretty much like Karma, but more present in France.
 
 ### Materials
 
