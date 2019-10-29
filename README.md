@@ -28,6 +28,9 @@ Short description.
 ```
 
 ### Vegetation, Agriculture & Food
+- [Augmenta](https://www.augmenta.ag) | Athens,Greec | 2016
+
+  Ag-tech startup developed a plug and play device called the "Field Analyzer" that can be attached to any tractor and can determine the amount of fertilizers,fungicides,pesticides that every inch of the farm needs to reach to its full potential,all in real-time. Augmenta has partnered with NVIDIA for the development of its cutting edge deep learning device.
 
 - [AquaAgro](https://aquaagro.smartcube.pk/) | Karachi, Pakistan | 2018
 
