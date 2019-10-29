@@ -33,6 +33,10 @@ Short description.
 
 Provides solutions for precision farming, enabling farmers to monitor their crops and make better decisions. Their devices and platform can make predictions for irrigation scheduling, fertilizer requirement, pest attack prediction, and plant disease detection. 
 
+- [Bowery Farming](https://boweryfarming.com) | New York, USA | 2015
+
+  Their indoor vertical farms grow produce locally within cities with 95% less water, no pesticides, and 100x more productivity on the same footprint of land compared to traditional agriculture.
+
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 
   They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
