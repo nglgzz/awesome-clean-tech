@@ -166,7 +166,7 @@ Short description.
 
   App that calculates the climate impact of your daily choices by connecting to apps and services you already use: your personal and automated carbon tracker.
 
-- [Lentera Bumi Nusantara](http://www.lenterabumi.com/aboutus.html/) | Indonesia | 2015
+- [Lentera Bumi Nusantara](http://www.lenterabumi.com/aboutus.html) | Indonesia | 2015
 
   Founded by Ricky Elson, Indonesian EV technology expert who came back from Japan. The vision of this technopreneurial movement is to light up every dark corner of the country through technology and community development. Its portfolios ranging from 500W "Sky Dancer" wind turbine, use of nano cavitation to provide clean water to "Tucuxi" as the 1st national electric car.
 
