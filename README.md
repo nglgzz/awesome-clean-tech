@@ -112,7 +112,7 @@ Short description.
 
 - [Carbon Engineering](https://carbonengineering.com/) | Canada | 2009
 
-  Using [Direct Air Capture](https://en.wikipedia.org/wiki/Direct_air_capture) technology, Carbon Engineering aims to take existing CO<sub>2</sub> directly out of the air, then using the gas to make carbon neutral synthetic fuels for planes, trucks, and ships. With support from Bill Gates and oil sands magnate Norman Murray Edwards, it's sure to see success in cleanly fueling global shipping infrastructure.
+  Using Direct Air Capture technology, Carbon Engineering aims to take existing CO<sub>2</sub> directly out of the air, then use the gas to make carbon neutral synthetic fuels for planes, trucks, and ships. Carbon Engineering is funded by several government and sustainability-focused agencies as well as by private investors, including Bill Gates and oil sands magnate Norman Murray Edwards.
 
 - [ElectricityMap.org](https://www.electricitymap.org/) | Denmark/France | 2017
 
