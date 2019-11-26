@@ -165,7 +165,7 @@ Short description.
 
 - [WindCORES](https://www.windcores.de/en/homepage/) | Germany | 2018
 
-  A subsidiary of Westfalenwind, a German wind energy developer. They host servers inside wind turbines, bringing the consumer of electricity closer to the producer.
+  A subsidiary of Westfalenwind, a German wind energy developer. They are a data center provider that hosts servers inside wind turbines, bringing the consumer of electricity closer to the producer.
 
 ### Social Impact
 
