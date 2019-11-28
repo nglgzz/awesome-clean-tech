@@ -202,6 +202,10 @@ Short description.
 
   Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
 
+- [WindCORES](https://www.windcores.de/en/homepage/) | Germany | 2018
+
+  A subsidiary of Westfalenwind, a German wind energy developer. They are a data center provider that hosts servers inside wind turbines, bringing the consumer of electricity closer to the producer.
+
 ### Social Impact
 
 - [Billions in Change](https://billionsinchange.com/) | USA | 2015
