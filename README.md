@@ -32,7 +32,7 @@ Short description.
 
 - [AquaAgro](https://aquaagro.smartcube.pk/) | Karachi, Pakistan | 2018
 
-  Provides solutions for precision farming, enabling farmers to monitor their crops and make better decisions. Their devices and platform can make predictions for irrigation scheduling, fertilizer requirement, pest attack prediction, and plant disease detection. 
+  Provides solutions for precision farming, enabling farmers to monitor their crops and make better decisions. Their devices and platform can make predictions for irrigation scheduling, fertilizer requirement, pest attack prediction, and plant disease detection.
 
 - [Bowery Farming](https://boweryfarming.com) | New York, USA | 2015
 
@@ -63,6 +63,10 @@ Short description.
   Uses satellite imaging to save fertilizer usage up to 30%, and track crops health. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
 
 ### Food
+
+- [Foods for Tomorrow / Heura](https://www.heurafoods.com/en-GB/home) | Barcelona, Spain | 2017
+
+  Created an ingredient named Heura which represents a new generation of plant-based proteins using innovative production techniques to get textures never seen on the vegetal realm. Heura needs 94% less water than to produce the same amount of veal protein and only 0.5kg of soy per kg produced.
 
 - [Impossible Foods](https://impossiblefoods.com/) | California, USA | 2011
 
@@ -234,7 +238,7 @@ Short description.
 
 - [Triodos Bank](https://www.triodos.com) | Netherlands | 1980
 
-   European Bank for consumers and businesses that only lends to organisations who make positive environmental and social change. They invest significantly in renewable energy systems and publish details of every organisation they finance on their website.
+  European Bank for consumers and businesses that only lends to organisations who make positive environmental and social change. They invest significantly in renewable energy systems and publish details of every organisation they finance on their website.
 
 - [Unmade](https://unmade.com/) | England | 2013
 
