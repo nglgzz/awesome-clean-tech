@@ -112,19 +112,23 @@ Short description.
 
   Developed a technology to passively collect ocean debris, with the goal of cleaning the oceans of 90% of their plastic waste by 2040. In 2018 they deployed their solution in the Great Pacific Garbage Patch.
 
-- [Orbital Systems](https://orbital-systems.com/) | Sweden | 2012
+- [Ocean Voyages Institute](https://www.oceanvoyagesinstitute.org/) | Honolulu, USA | 1979
+
+  Non-profit founded by international sailors, educators, and conservationists with a mission of teaching maritime arts and sciences and preserving the world’s oceans. They completed multiple cleanup expeditions in the Pacific, the most recent one in June 2020 where they removed 103 tons of fishing nets and consumer plastics from the Great Pacific Garbage Patch.
+
+* [Orbital Systems](https://orbital-systems.com/) | Sweden | 2012
 
   Collaborated with NASA to develop a shower system that uses 90% less water. The shower has a purification system that makes it possible to reuse the same batch of water. The company now wants to make this technology - initially developed for space - available to consumers.
 
-- [Refill App](https://refill.org.uk/) | UK | 2015
+* [Refill App](https://refill.org.uk/) | UK | 2015
 
   This is an app which lets you find free water refill stations across the UK. Currently there are more than 20,000 free stations across the nation. The app also tracks saved bottles, saved carbon and donates 13p every time you refill a bottle to planet protecting campaings.
 
-- [Seabin Project](https://seabinproject.com/) | Australia | 2016
+* [Seabin Project](https://seabinproject.com/) | Australia | 2016
 
   Their mission is to reduce plastic in the oceans through a floating rubbish bin that collect pollutants on the water surface. As of October 2019 they have deployed 719 Seabins and are capturing almost 3 tonnes of rubbish per day.
 
-- [Solar Water Solutions](https://solarwatersolutions.fi/en/) | Finland | 2015
+* [Solar Water Solutions](https://solarwatersolutions.fi/en/) | Finland | 2015
 
   Develops a reverse osmosis technology for producing drinking water with low operating expenses and no CO2 emissions. The desalination system is fully solar, independent of external energy sources and easy-to-use and maintain.
 
