@@ -90,6 +90,10 @@ Short description.
 
 ### Materials
 
+- [Boston Metal](https://www.bostonmetal.com/) | Boston, USA | 2012
+
+  Developed a new technology to produce emission free steel in a scalable and cost effective manner. As of 2020 they produced more than 1.000kg of metal alloys since the commissioning of their first reactor.
+
 - [Cellugy](https://cellugy.com/) | Denmark | 2018
 
   Offers a biomaterial produced from food and vegetable waste, that can be used for packaging as an alternative to plastic. This material is translucent, resistent, and home compostable.
@@ -116,19 +120,19 @@ Short description.
 
   Non-profit founded by international sailors, educators, and conservationists with a mission of teaching maritime arts and sciences and preserving the world’s oceans. They completed multiple cleanup expeditions in the Pacific, the most recent one in June 2020 where they removed 103 tons of fishing nets and consumer plastics from the Great Pacific Garbage Patch.
 
-* [Orbital Systems](https://orbital-systems.com/) | Sweden | 2012
+- [Orbital Systems](https://orbital-systems.com/) | Sweden | 2012
 
   Collaborated with NASA to develop a shower system that uses 90% less water. The shower has a purification system that makes it possible to reuse the same batch of water. The company now wants to make this technology - initially developed for space - available to consumers.
 
-* [Refill App](https://refill.org.uk/) | UK | 2015
+- [Refill App](https://refill.org.uk/) | UK | 2015
 
   This is an app which lets you find free water refill stations across the UK. Currently there are more than 20,000 free stations across the nation. The app also tracks saved bottles, saved carbon and donates 13p every time you refill a bottle to planet protecting campaings.
 
-* [Seabin Project](https://seabinproject.com/) | Australia | 2016
+- [Seabin Project](https://seabinproject.com/) | Australia | 2016
 
   Their mission is to reduce plastic in the oceans through a floating rubbish bin that collect pollutants on the water surface. As of October 2019 they have deployed 719 Seabins and are capturing almost 3 tonnes of rubbish per day.
 
-* [Solar Water Solutions](https://solarwatersolutions.fi/en/) | Finland | 2015
+- [Solar Water Solutions](https://solarwatersolutions.fi/en/) | Finland | 2015
 
   Develops a reverse osmosis technology for producing drinking water with low operating expenses and no CO2 emissions. The desalination system is fully solar, independent of external energy sources and easy-to-use and maintain.
 
@@ -250,6 +254,7 @@ Short description.
 
 ## More Resources
 
+- [Breakthrough Energy Ventures](https://www.b-t.energy/) - Venture fund backed by Bill Gates and a group of private investors, with more than \$1 billion in committed capital, to build companies that will help stop climate change.
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
 - [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
