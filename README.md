@@ -136,6 +136,10 @@ Short description.
 
   Develops a reverse osmosis technology for producing drinking water with low operating expenses and no CO2 emissions. The desalination system is fully solar, independent of external energy sources and easy-to-use and maintain.
 
+- [Zero Mass Water](https://www.zeromasswater.com/) | Scottsdale, USA | 2014
+
+  Produces Hydropanels, a self-contained system that relies on solar power to convert air humidity into clean drinkable water.
+
 ### Energy
 
 - [Bulb](https://bulb.co.uk/) | UK | 2013
