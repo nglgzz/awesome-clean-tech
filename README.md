@@ -40,7 +40,7 @@ Short description.
 
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 
-  They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
+  They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting LiDaR data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
 
 - [Kheyti](https://kheyti.com/) | India | 2015
 
@@ -235,6 +235,10 @@ Short description.
 - [Billions in Change](https://billionsinchange.com/) | USA | 2015
 
   Billions in Change develops and delivers inventions that help the unlucky half of the world obtain basic needs like clean water, reliable electricity, and sufficient food. Those fundamentals set the foundation for education, health, and livelihood, enabling people to improve life for themselves and for their families.
+  
+- [Cascadia Carbon Inc.](https://cascadiacarbon.com). | USA | 2019
+
+  Cascadia Carbon Inc. is a PNW HQed XlimateTech Startup that builds climate change solutions. Their first product, an app       codenamed CODEX, is an automatic  personal transportation carbon footprint calculator. the app (available as a closed public beta at the [iOS App Store](https://apps.apple.com/us/app/codex/id1460529709)), also rewards users by generating carbon offset whenever you choose to use low-carbon transport instead of a car.
 
 - [Doconomy](https://doconomy.com/) | Sweden | 2018
 
