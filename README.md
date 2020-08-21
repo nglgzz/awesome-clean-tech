@@ -139,6 +139,10 @@ Short description.
 - [Zero Mass Water](https://www.zeromasswater.com/) | Scottsdale, USA | 2014
 
   Produces Hydropanels, a self-contained system that relies on solar power to convert air humidity into clean drinkable water.
+  
+- [Sowp Box](https://www.sowp.ca/) | Canada | 2020
+
+  The Sowp box cleans microplastics and other pollutants from bodies of water. Completely self-powered and automated; will let you know when it is full.
 
 ### Energy
 
