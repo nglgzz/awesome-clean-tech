@@ -40,7 +40,7 @@ Short description.
 
 - [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
 
-  They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
+  A team including foresters, ecologists, and engineers focused on wildfire reforestation. They plant native trees & vegetation using drone swarms and seed vessels developed to boost survival rates. As of 2020 they can propagate 40 acres in a day.
 
 - [Kheyti](https://kheyti.com/) | India | 2015
 
@@ -155,7 +155,7 @@ Short description.
   Using Direct Air Capture technology, Carbon Engineering aims to take existing CO<sub>2</sub> directly out of the air, then use the gas to make carbon neutral synthetic fuels for planes, trucks, and ships. Carbon Engineering is funded by several government and sustainability-focused agencies as well as by private investors, including Bill Gates and oil sands magnate Norman Murray Edwards.
 
 - [ChargePoint](https://www.chargepoint.com/) | California,USA | 2007
-  
+
   ChargePoint operates a open electric vehicle (EV) charging network and makes technology used in it.
 
 - [ElectricityMap.org](https://www.electricitymap.org/) | Denmark/France | 2017
