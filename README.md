@@ -154,6 +154,10 @@ Short description.
 
   Using Direct Air Capture technology, Carbon Engineering aims to take existing CO<sub>2</sub> directly out of the air, then use the gas to make carbon neutral synthetic fuels for planes, trucks, and ships. Carbon Engineering is funded by several government and sustainability-focused agencies as well as by private investors, including Bill Gates and oil sands magnate Norman Murray Edwards.
 
+- [ChargePoint](https://www.chargepoint.com/) | California,USA | 2007
+  
+  ChargePoint operates a open electric vehicle (EV) charging network and makes technology used in it.
+
 - [ElectricityMap.org](https://www.electricitymap.org/) | Denmark/France | 2017
 
   A software company offering access to live and historical data of the origin of electricity and its associated carbon emissions in 90+ countries, based on open-source contributions.
