@@ -42,6 +42,10 @@ Short description.
 
   They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with Governments, nonprofits, and private land owners as a service provider.
 
+- [Kheyti](https://kheyti.com/) | India | 2015
+
+  They implement low-cost farming solutions such as "Greenhouse-in-a-box" to help small farmers increase yield and predictability of produce.
+
 - [Land Life Company](https://landlifecompany.com/) | Amsterdam | 2013
 
   Their mission is to reforest the world’s 2 billion hectares of degraded land.
