@@ -251,6 +251,10 @@ Short description.
 - [Ewally](https://ewally.com.mx/) | Mexico | 2017
 
   System and App that provide a complete and eco-friendly trash collection service promoting the recycling culture. The wall between ocean and trash.
+  
+- [Rohan Builders Raw](http://riseagainstwaste.com/know/) | India | -
+
+  Started "Raise against waste", an initiative for waste management. They are taking webinars/workshops and educating people about waste segregation. They are also providing downloadable toolkit which conatins full of tips, guides, ideas and products that will get people segregate waste efficiently.
 
 - [Tomorrow](https://tmrow.com/) | Denmark/France | 2018
 
