@@ -4,7 +4,7 @@
 
 The goal of this list is to gather a list of awesome companies fighting climate change, as well as collecting research about the issues and solutions connected to it.
 
-_Contributions to this list are welcome! Just edit the [README.md](./edit/master/README.md) (this document) and send the changes as a pull request. Please read the [guidelines](./CONTRIBUTING.md) before contributing._
+_Contributions to this list are welcome! Just edit the [README.md](https://github.com/nglgzz/awesome-clean-tech/blob/master/README.md) (this document) and send the changes as a pull request. Please read the [guidelines](./CONTRIBUTING.md) before contributing._
 
 ## Contents
 
