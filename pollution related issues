@@ -1,0 +1,114 @@
+<html>
+
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+  <div class="nav">
+    <div class="container">
+      <ul class="pull-left">
+        <a></a></li>
+      </ul>
+      <ul class="pull-right">
+
+        <li><a href="#"></a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="jumbotron">
+    <div class="container">
+      <h1>Research Project 801
+      by seno.c</h1>
+      <p> </p>
+      <a href="#"></a>
+    </div>
+  </div>
+  <div class="">
+    <div class="container">
+      <h2></h2>
+      <p></p>
+      <div class="row">
+        <div class="col-md-4">
+          <h1>Info</h1>
+           <p>In many cases people don’t see the harm that pollution is doing to us but really it really is but pollution causes deaths because we can't stop people from doing but something that we can change is murder but pollution every person is a witness and in other cases it just a small percentage.But the thing is the pollution the more asthma grows and that causes 10 deaths each day.Now image if we put more pollution in the air they are going to be more deaths each day so saying right now 10 people our dying because of the air. This information came from <a href="http://www.aafa.org/page/asthma-facts.aspx" target="_blank">Aafa</a>
+    <br>
+    This is saying that the government is doing something about the air quality they are not just doing nothing.They are actually going to companies or people that would actually help the earth/air.<a href="http://www.bcairquality.ca/101/government-air-quality.html " target="_blank">BcAirQuality</a></p> 
+    <br>
+ 
+So saying a gas sensor detects gas in the air because of a little chemical that is in the sensor.Also a gas sensor works is by  a small heater that is in inside that works with the chemical.This information came from <a href="http://playground.arduino.cc/Main/MQGasSensors" target="_blank">Arduino</a> 
+    <br>
+This sensor goes in two negative so that it can detect the air. Also it goes in the arduino board so you can connect it to the computer to the air.<a href="https://davidhoulding.blogspot.com/2014/03/co-carbon-monoxide-gas-sensor-using.html" target="_blank">BlogSpot</a> 
+     
+        </p>
+        </div>
+
+        <div class="col-md-4">
+
+
+          <div class="thumbnail">
+            <img src="http://tunza.eco-generation.org/file/image8.jpg">
+          </div>
+          <div class="thumbnail">
+            <img src="http://aura.gsfc.nasa.gov/images/NASA_NO2_Global_FRONT.gif">
+          </div>
+       
+          <div class="thumbnail">
+            <img src="http://emilysquotes.com/wp-content/uploads/2015/07/EmilysQuotes.Com-life-planet-mistake-nature-threat-relationship-mistake-pollution-Terry-Swearingen-500x334.jpg">
+          </div>
+ 
+
+        </div>
+        <div class="col-md-4">
+          <h1>Code</h1>
+          <pre>
+#include&nbsp;&lt;<span style="color: #CC6600;">LiquidCrystal</span>.h&gt;
+
+<span style="color: #7E7E7E;">//&nbsp;initialize&nbsp;the&nbsp;library&nbsp;with&nbsp;the&nbsp;numbers&nbsp;of&nbsp;the&nbsp;interface&nbsp;pins</span>
+<span style="color: #CC6600;">LiquidCrystal</span> lcd(12, 11, 5, 4, 3, 2);
+
+<span style="color: #CC6600;">int</span> sensorValue;
+<span style="color: #CC6600;">int</span> pin8 = 8;
+
+<span style="color: #CC6600;">void</span> <span style="color: #CC6600;"><b>setup</b></span>() {
+&nbsp;&nbsp;<span style="color: #7E7E7E;">// set up the LCD's number of columns and rows:</span>
+&nbsp;&nbsp;lcd.<span style="color: #CC6600;">begin</span>(16, 2);
+&nbsp;&nbsp;<span style="color: #7E7E7E;">// Print a message to the LCD.</span>
+&nbsp;&nbsp;lcd.<span style="color: #CC6600;">print</span>(<span style="color: #006699;">"sensor value"</span>);
+&nbsp;&nbsp;&nbsp;<span style="color: #CC6600;">pinMode</span>(pin8, <span style="color: #006699;">OUTPUT</span>);
+}
+
+<span style="color: #CC6600;">void</span> <span style="color: #CC6600;"><b>loop</b></span>() {
+&nbsp;&nbsp;&nbsp;&nbsp;sensorValue&nbsp;=&nbsp;<span style="color: #CC6600;">analogRead</span>(0);       <span style="color: #7E7E7E;">// read analog input pin 0</span>
+&nbsp;&nbsp;<span style="color: #CC6600;"><b>Serial</b></span>.<span style="color: #CC6600;">print</span>(sensorValue, <span style="color: #006699;">DEC</span>);  <span style="color: #7E7E7E;">// prints the value read</span>
+&nbsp;&nbsp;<span style="color: #CC6600;"><b>Serial</b></span>.<span style="color: #CC6600;">println</span>(<span style="color: #006699;">"ppm"</span>);
+&nbsp;&nbsp;<span style="color: #CC6600;">if</span> (sensorValue &gt; 500) {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #7E7E7E;">// Activate digital output pin 8 - the LED will light up</span>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #CC6600;">digitalWrite</span>(pin8, <span style="color: #006699;">HIGH</span>);
+&nbsp;&nbsp;}
+&nbsp;&nbsp;<span style="color: #CC6600;">else</span> {
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #7E7E7E;">// Deactivate digital output pin 8 - the LED will not light up</span>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #CC6600;">digitalWrite</span>(pin8, <span style="color: #006699;">LOW</span>);
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;<span style="color: #7E7E7E;">// set the cursor to column 0, line 1</span>
+&nbsp;&nbsp;<span style="color: #7E7E7E;">// (note: line 1 is the second row, since counting begins with 0):</span>
+&nbsp;&nbsp;lcd.<span style="color: #CC6600;">setCursor</span>(0, 1);
+&nbsp;&nbsp;<span style="color: #7E7E7E;">// print the number of seconds since reset:</span>
+&nbsp;lcd.<span style="color: #CC6600;">print</span>(sensorValue);
+&nbsp;}
+
+&nbsp;<span style="color: #CC6600;">delay</span>(50);
+}
+
+</pre>
+
+        </div>
+      </div>
+      <div class="col-md-4">
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/_R0vxCmls6o" frameborder="0" allowfullscreen></iframe>
+      <h1>Pollution</h1>
+      <p>After you see this video: This is why we should help the earth it causes problems to us and maybe even some people close to us like family and friends.ETC.</p>
+    </div>
