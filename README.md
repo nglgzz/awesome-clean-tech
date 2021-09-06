@@ -62,7 +62,7 @@ Short description.
 
   Produces Solein - a single-cell protein - from water, CO2 and electricity. It doesn’t require arable land or irrigation and isn’t limited by climate conditions. The original concept of Solein was born from a NASA space programme, and was further developed in the research projects of the Technical Research Centre of Finland Ltd and the Lappeenranta University of Technology (LUT).
 
-- [Vultus](https://www.vultus.se/) | Sweden | 2016
+- [Vultus](https://www.vultus.io/) | Sweden | 2016
 
   Uses satellite imaging to save fertilizer usage up to 30%, and track crops health. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
 
