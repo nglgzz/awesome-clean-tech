@@ -272,7 +272,7 @@ Short description.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
 - [Climate Choice](https://climatechoice.co/) - A non-profit project that contains actionable guides on reducing climate change, as well as educational information about climate change.
 - [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
-- [Norrsken Foundation](https://www.norrskenfoundation.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
+- [Norrsken Foundation](https://www.norrsken.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
 
 ## Research
 
