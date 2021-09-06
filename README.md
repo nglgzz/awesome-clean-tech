@@ -38,7 +38,7 @@ Short description.
 
   Their indoor vertical farms grow produce locally within cities with 95% less water, no pesticides, and 100x more productivity on the same footprint of land compared to traditional agriculture.
 
-- [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
+- [Droneseed](https://www.droneseed.com/) | Seattle, USA | 2015
 
   A team including foresters, ecologists, and engineers focused on wildfire reforestation. They plant native trees & vegetation using drone swarms and seed vessels developed to boost survival rates. As of 2020 they can propagate 40 acres in a day.
 
@@ -62,7 +62,7 @@ Short description.
 
   Produces Solein - a single-cell protein - from water, CO2 and electricity. It doesn’t require arable land or irrigation and isn’t limited by climate conditions. The original concept of Solein was born from a NASA space programme, and was further developed in the research projects of the Technical Research Centre of Finland Ltd and the Lappeenranta University of Technology (LUT).
 
-- [Vultus](https://www.vultus.se/) | Sweden | 2016
+- [Vultus](https://www.vultus.io/) | Sweden | 2016
 
   Uses satellite imaging to save fertilizer usage up to 30%, and track crops health. This allows farmers to reduce their Nitrous Oxide emissions, a greenhouse gas that is 298 times more potent than CO2.
 
@@ -272,7 +272,7 @@ Short description.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
 - [Climate Choice](https://climatechoice.co/) - A non-profit project that contains actionable guides on reducing climate change, as well as educational information about climate change.
 - [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
-- [Norrsken Foundation](https://www.norrskenfoundation.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
+- [Norrsken Foundation](https://www.norrsken.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
 
 ## Research
 
