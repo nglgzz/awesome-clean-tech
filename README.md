@@ -38,7 +38,7 @@ Short description.
 
   Their indoor vertical farms grow produce locally within cities with 95% less water, no pesticides, and 100x more productivity on the same footprint of land compared to traditional agriculture.
 
-- [Droneseed](https://www.droneseed.co/) | Seattle, USA | 2015
+- [Droneseed](https://www.droneseed.com/) | Seattle, USA | 2015
 
   A team including foresters, ecologists, and engineers focused on wildfire reforestation. They plant native trees & vegetation using drone swarms and seed vessels developed to boost survival rates. As of 2020 they can propagate 40 acres in a day.
 
