@@ -15,6 +15,7 @@ _Contributions to this list are welcome! Just edit the [README.md](https://githu
   - [Water](#water)
   - [Energy](#energy)
   - [Social Impact](#social-impact)
+  - [Digital](#digital)
 - [More Resources](#more-resources)
 - [Research](#research)
 
@@ -263,6 +264,18 @@ Short description.
 - [Unmade](https://unmade.com/) | England | 2013
 
   Reduces waste in the fashion industry, by offering on-demand production of clothing at scale. Unmade was born out of a desire to re-imagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
+
+### Digital
+
+- [Simplon](https://www.simplon.co/) | France | 2013
+
+  Teaching digital around the world, with sustainability and inclusion as their main concerns. 
+  Teaching sustainable tech for companies.   
+
+- [Wholegrain Digital](https://www.wholegraindigital.com/) | UK | 2007
+
+  London’s design led WordPress agency for positive businesses and charities.
+  Works on sustainable digital products, spreading sustainability best practices around the world.
 
 ## More Resources
 
