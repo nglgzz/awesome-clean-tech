@@ -268,7 +268,7 @@ Short description.
 
 - [ClimateTechList](https://www.climatetechlist.com/) - curated list of ~50 climatetech companies, specific to software engineers, with descriptions of each company, their software impact, and climate impact.
 - [Breakthrough Energy Ventures](https://www.b-t.energy/) - Venture fund backed by Bill Gates and a group of private investors, with more than \$1 billion in committed capital, to build companies that will help stop climate change.
-- [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
+- [Clean Tech Finland](https://www.businessfinland.fi/en/do-business-with-finland/explore-key-industries/cleantech/) - Hub of Finnish clean tech companies.
 - [Clean Tech Sweden](https://swedishcleantech.com/) - Hub of Swedish clean tech companies.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) - A subreddit for giving people hope when facing climate change.
 - [Climate Choice](https://climatechoice.co/) - A non-profit project that contains actionable guides on reducing climate change, as well as educational information about climate change.
