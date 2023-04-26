@@ -102,6 +102,10 @@ Short description.
 
   Offers a biomaterial produced from food and vegetable waste, that can be used for packaging as an alternative to plastic. This material is translucent, resistent, and home compostable.
 
+- [Chakr Innovation](https://chakr.in) | India | 2015
+
+  Developed a retro-fit emission control device for diesel generators. This technology can capture ~90% of particulate matter emissions from the exhaust of diesel generators without causing any adverse impact on the engine, and convert it into non-toxic paints and inks.
+
 - [Organicbasics](https://organicbasics.com) | Denmark | 2015
 
   Offers underwear, essentials and activewear made consciously in Europe. The material used for their production is natural, renewable, recycled, biodegradable and or low-impact textiles only.
@@ -109,6 +113,7 @@ Short description.
 - [SkyCool Systems](http://skycoolsystems.com) | California, USA | 2016
 
   Manufacture add-ons to vapor-compression based cooling systems, which reduce their electricity usage while being CO2 neutral themselves.
+
 
 ### Water
 
@@ -277,6 +282,7 @@ Short description.
 
 ## Research
 
+- [Blue Sky Analytics](https://blueskyhq.in) - Building Geospatial Data Platforms for Environmental Data.
 - [Environmental Protection Agency](https://www.epa.gov/climate-research) - Research on effects of climate change and solutions.
 - [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/library/) - United Nations body for assessing the science related to climate change.
 - [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) - Providing solution-oriented policy pathways for governing the global commons to enhance sustainable development and human well-being.
