@@ -266,13 +266,13 @@ Short description.
 
 ## APIs
 
-- [DitchCarbon API](https://docs.ditchcarbon.com/ "https://docs.ditchcarbon.com/") | England | 2021
-
-  DitchCarbon provides API access to their dataset of company and product carbon emissions disclosures, also includes reccommended actions for each company to decarbonise.
-
 - [Companies taking action](https://ditchcarbon.com/free-sbti-api-access/ "https://ditchcarbon.com/free-sbti-api-access/") | England | 2021
 
   API access to the "companies taking action" list from SBTI
+
+- [DitchCarbon API](https://docs.ditchcarbon.com/ "https://docs.ditchcarbon.com/") | England | 2021
+
+  DitchCarbon provides API access to their dataset of company and product carbon emissions disclosures, also includes reccommended actions for each company to decarbonise.
 
 ## More Resources
 
