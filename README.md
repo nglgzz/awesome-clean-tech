@@ -264,6 +264,16 @@ Short description.
 
   Reduces waste in the fashion industry, by offering on-demand production of clothing at scale. Unmade was born out of a desire to re-imagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
 
+## APIs
+
+- [DitchCarbon API](https://docs.ditchcarbon.com/ "https://docs.ditchcarbon.com/") | England | 2021
+
+  DitchCarbon provides API access to their dataset of company and product carbon emissions disclosures, also includes reccommended actions for each company to decarbonise.
+
+- [Companies taking action](https://ditchcarbon.com/free-sbti-api-access/ "https://ditchcarbon.com/free-sbti-api-access/") | England | 2021
+
+  API access to the "companies taking action" list from SBTI
+
 ## More Resources
 
 - [ClimateTechList](https://www.climatetechlist.com/) - curated list of ~50 climatetech companies, specific to software engineers, with descriptions of each company, their software impact, and climate impact.
