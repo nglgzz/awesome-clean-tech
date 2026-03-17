@@ -260,6 +260,10 @@ Short description.
 
   European Bank for consumers and businesses that only lends to organisations who make positive environmental and social change. They invest significantly in renewable energy systems and publish details of every organisation they finance on their website.
 
+  -[Green-Peace] (https://www.greenpeace.org) | Amsterdam, Netherlands | 1969
+
+   Non govermental environmental organisation ensuring the ability of the Earth to nurture life in all its diversity
+
 - [Unmade](https://unmade.com/) | England | 2013
 
   Reduces waste in the fashion industry, by offering on-demand production of clothing at scale. Unmade was born out of a desire to re-imagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
