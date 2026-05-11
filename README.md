@@ -277,6 +277,7 @@ Short description.
 - [Greenwashing Checker](https://greenwashing-checker.com) - Tool to detect greenwashing in corporate sustainability claims.
 - [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
 - [Norrsken Foundation](https://www.norrsken.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
+- [SolarCalculatorHQ](https://solarcalculatorhq.com) - Free multi-locale solar PV calculator suite (system sizing, payback period, ROI, off-grid load) with per-region cost data and code references for 10 markets.
 
 ## Research
 
