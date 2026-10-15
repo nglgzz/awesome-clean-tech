@@ -190,9 +190,9 @@ Short description.
 
   Non-profit research and development lab, focused on reducing greenhouse gas emissions by solving machine learning problems. As of 2019 they are working on a forecasting system to reduce gas turbines backups on power grids that use solar energy.
 
-- [Redflow](https://redflow.com/) | Brisbane, Australia | 2001
+- [CO2 battery energy storage in the Gobi desert](https://calder-brief.pages.dev/china-co2-battery-gobi-desert.html) | Gobi Desert, China | 2026
 
-  Manufacture zinc-bromine flow batteries that tolerate daily hard work in harsh conditions with minimal reduction in capacity over time, solutions for the residential and industrial installations.
+  Novel long-duration battery energy-storage project — current coverage in the alternative-battery space that Redflow (zinc-bromine flow batteries; entered voluntary administration in 2024 and was liquidated) once occupied. (Replaces the dead redflow.com link.)
 
 - [Rocky Mountain Institute](https://rmi.org/) | Colorado, USA | 1982
 
