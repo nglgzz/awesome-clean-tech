@@ -277,6 +277,7 @@ Short description.
 - [Greenwashing Checker](https://greenwashing-checker.com) - Tool to detect greenwashing in corporate sustainability claims.
 - [Mattermore.io](https://www.mattermore.io/) - Newsletter highlighting companies using AI & data science to reverse climate change; useful for discovering new initiatives/work opportunities, delivered every week.
 - [Norrsken Foundation](https://www.norrsken.org/) - Swedish foundation which supports and invests in organizations that have a positive impact on society.
+- [PPWR-DOC](https://ppwr-doc.com/en?ref=github) - Generator for the EU declaration of conformity for packaging under Regulation (EU) 2025/40 (PPWR), Art. 39 and Annex VIII, as a PDF in 8 languages.
 
 ## Research
 
